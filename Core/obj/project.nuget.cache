@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qnf8jvyG8ek=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\farah\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\farah\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\farah\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

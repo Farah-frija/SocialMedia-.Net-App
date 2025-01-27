@@ -7,7 +7,11 @@ using System;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddAppDbContext(builder.Configuration);
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+
+
+    options.UseSqlServer(builder.Configuration.GetConnectionString("WebApplication1Context"))
+);
 
 builder.Services.AddInfrastructureIdentityServices();
 builder.Services.AddControllers();

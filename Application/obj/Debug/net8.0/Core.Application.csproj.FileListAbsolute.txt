@@ -13,3 +13,19 @@ C:\Users\farah\OneDrive\Documents\GL3Sem1\DotNet\ScolarProject\Application\obj\D
 C:\Users\farah\OneDrive\Documents\GL3Sem1\DotNet\ScolarProject\Application\bin\Debug\net8.0\Core.Domain.dll
 C:\Users\farah\OneDrive\Documents\GL3Sem1\DotNet\ScolarProject\Application\bin\Debug\net8.0\Core.Domain.pdb
 C:\Users\farah\OneDrive\Documents\GL3Sem1\DotNet\ScolarProject\Application\obj\Debug\net8.0\Core.App.01B2A2D7.Up2Date
+D:\GL3\social media app\Application\bin\Debug\net8.0\Core.Application.deps.json
+D:\GL3\social media app\Application\bin\Debug\net8.0\Core.Application.dll
+D:\GL3\social media app\Application\bin\Debug\net8.0\Core.Application.pdb
+D:\GL3\social media app\Application\bin\Debug\net8.0\Core.Domain.dll
+D:\GL3\social media app\Application\bin\Debug\net8.0\Core.Domain.pdb
+D:\GL3\social media app\Application\obj\Debug\net8.0\Core.Application.csproj.AssemblyReference.cache
+D:\GL3\social media app\Application\obj\Debug\net8.0\Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\GL3\social media app\Application\obj\Debug\net8.0\Core.Application.AssemblyInfoInputs.cache
+D:\GL3\social media app\Application\obj\Debug\net8.0\Core.Application.AssemblyInfo.cs
+D:\GL3\social media app\Application\obj\Debug\net8.0\Core.Application.csproj.CoreCompileInputs.cache
+D:\GL3\social media app\Application\obj\Debug\net8.0\Core.Application.sourcelink.json
+D:\GL3\social media app\Application\obj\Debug\net8.0\Core.App.01B2A2D7.Up2Date
+D:\GL3\social media app\Application\obj\Debug\net8.0\Core.Application.dll
+D:\GL3\social media app\Application\obj\Debug\net8.0\refint\Core.Application.dll
+D:\GL3\social media app\Application\obj\Debug\net8.0\Core.Application.pdb
+D:\GL3\social media app\Application\obj\Debug\net8.0\ref\Core.Application.dll

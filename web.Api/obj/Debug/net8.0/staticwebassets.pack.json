@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\web.Api\\wwwroot\\uploads\\posts\\3cc38daa-b2b9-4e77-86b1-3ab747175bc0.jpg",
+      "PackagePath": "staticwebassets\\uploads\\posts\\3cc38daa-b2b9-4e77-86b1-3ab747175bc0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\web.Api\\wwwroot\\uploads\\posts\\60a2bbd3-8026-4b51-a7ad-84a102c79d23.jpg",
+      "PackagePath": "staticwebassets\\uploads\\posts\\60a2bbd3-8026-4b51-a7ad-84a102c79d23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\web.Api\\wwwroot\\uploads\\posts\\68a6c4ad-930b-4bb4-9998-94a389ca4b22.jpg",
+      "PackagePath": "staticwebassets\\uploads\\posts\\68a6c4ad-930b-4bb4-9998-94a389ca4b22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\web.Api\\wwwroot\\uploads\\posts\\79bed43f-0d7f-4eb5-9ffc-ad06d4d08e33.png",
+      "PackagePath": "staticwebassets\\uploads\\posts\\79bed43f-0d7f-4eb5-9ffc-ad06d4d08e33.png"
+    },
+    {
+      "Id": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\web.Api\\wwwroot\\uploads\\posts\\c49046ae-5f2f-443f-a0b8-1e9b213a2aff.jpg",
+      "PackagePath": "staticwebassets\\uploads\\posts\\c49046ae-5f2f-443f-a0b8-1e9b213a2aff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\web.Api\\wwwroot\\uploads\\posts\\e6e5575c-cd65-4d11-8525-3928f17a2f29.jpg",
+      "PackagePath": "staticwebassets\\uploads\\posts\\e6e5575c-cd65-4d11-8525-3928f17a2f29.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.web.Api.props",
+      "PackagePath": "build\\web.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.web.Api.props",
+      "PackagePath": "buildMultiTargeting\\web.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.web.Api.props",
+      "PackagePath": "buildTransitive\\web.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.web.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

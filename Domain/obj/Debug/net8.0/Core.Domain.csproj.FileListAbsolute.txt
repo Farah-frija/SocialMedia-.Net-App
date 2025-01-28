@@ -10,3 +10,16 @@ C:\Users\farah\OneDrive\Documents\GL3Sem1\DotNet\ScolarProject\Domain\obj\Debug\
 C:\Users\farah\OneDrive\Documents\GL3Sem1\DotNet\ScolarProject\Domain\obj\Debug\net8.0\Core.Domain.pdb
 C:\Users\farah\OneDrive\Documents\GL3Sem1\DotNet\ScolarProject\Domain\obj\Debug\net8.0\ref\Core.Domain.dll
 C:\Users\farah\OneDrive\Documents\GL3Sem1\DotNet\ScolarProject\Domain\obj\Debug\net8.0\Core.Domain.csproj.AssemblyReference.cache
+C:\Users\RimaZ\Source\Repos\ScolarProject\Domain\bin\Debug\net8.0\Core.Domain.deps.json
+C:\Users\RimaZ\Source\Repos\ScolarProject\Domain\bin\Debug\net8.0\Core.Domain.dll
+C:\Users\RimaZ\Source\Repos\ScolarProject\Domain\bin\Debug\net8.0\Core.Domain.pdb
+C:\Users\RimaZ\Source\Repos\ScolarProject\Domain\obj\Debug\net8.0\Core.Domain.csproj.AssemblyReference.cache
+C:\Users\RimaZ\Source\Repos\ScolarProject\Domain\obj\Debug\net8.0\Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RimaZ\Source\Repos\ScolarProject\Domain\obj\Debug\net8.0\Core.Domain.AssemblyInfoInputs.cache
+C:\Users\RimaZ\Source\Repos\ScolarProject\Domain\obj\Debug\net8.0\Core.Domain.AssemblyInfo.cs
+C:\Users\RimaZ\Source\Repos\ScolarProject\Domain\obj\Debug\net8.0\Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\RimaZ\Source\Repos\ScolarProject\Domain\obj\Debug\net8.0\Core.Domain.sourcelink.json
+C:\Users\RimaZ\Source\Repos\ScolarProject\Domain\obj\Debug\net8.0\Core.Domain.dll
+C:\Users\RimaZ\Source\Repos\ScolarProject\Domain\obj\Debug\net8.0\refint\Core.Domain.dll
+C:\Users\RimaZ\Source\Repos\ScolarProject\Domain\obj\Debug\net8.0\Core.Domain.pdb
+C:\Users\RimaZ\Source\Repos\ScolarProject\Domain\obj\Debug\net8.0\ref\Core.Domain.dll

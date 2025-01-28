@@ -23,11 +23,10 @@ namespace Infrastructure.Extentions
         public static void AddAppDbContext(this IServiceCollection services, IConfiguration configuration)
         {
 
+  
             services.AddDbContext<ApplicationDbContext>(options =>
-          options.UseNpgsql(
-              configuration.GetConnectionString("WebApplication1Context")
-          )
-      );
+options.UseSqlServer(configuration.GetConnectionString("WebApplication1Context"
+)));
         }
     }
 }

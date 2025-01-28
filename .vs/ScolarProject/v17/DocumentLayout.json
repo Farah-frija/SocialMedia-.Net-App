@@ -1,0 +1,495 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\application\\services\\localfilestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\services\\localfilestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\application\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\application\\mapper\\usermapper\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\mapper\\usermapper\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\web.api\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|solutionrelative:web.api\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\web.api\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|solutionrelative:web.api\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\web.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|solutionrelative:web.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\infrastructure\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\application\\dtos\\dtosresponses\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\dtos\\dtosresponses\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\application\\dtos\\dtosrequests\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\dtos\\dtosrequests\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\domain\\repositoryinterfaces\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\repositoryinterfaces\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\domain\\entities\\postphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\entities\\postphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|solutionrelative:web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\infrastructure\\migrations\\20250127212214_second_mig_added_photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250127212214_second_mig_added_photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\application\\interfaces\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\interfaces\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\application\\interfaces\\ifilestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\interfaces\\ifilestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\application\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\application\\interfaces\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\interfaces\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\application\\dtos\\dtosrequests\\updatepostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\dtos\\dtosrequests\\updatepostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\application\\dtos\\dtosrequests\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\dtos\\dtosrequests\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\infrastructure\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\domain\\repositoryinterfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\repositoryinterfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\application\\dtos\\dtosresponses\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\dtos\\dtosresponses\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\infrastructure\\extentions\\infrastructuredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\extentions\\infrastructuredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\web.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|solutionrelative:web.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\rimaz\\source\\repos\\scolarproject\\infrastructure\\migrations\\20250127200856_yyy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250127200856_yyy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\Mapper\\UserMapper\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Mapper\\UserMapper\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\Mapper\\UserMapper\\UserProfile.cs",
+              "RelativeToolTip": "Application\\Mapper\\UserMapper\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T22:24:55.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\web.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "web.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\web.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "web.Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T22:09:27.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250127212214_second_mig_added_photo.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Infrastructure\\Migrations\\20250127212214_second_mig_added_photo.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250127212214_second_mig_added_photo.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Infrastructure\\Migrations\\20250127212214_second_mig_added_photo.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250127212214_second_mig_added_photo.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T21:22:14.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocalFileStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\Services\\LocalFileStorageService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\LocalFileStorageService.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\Services\\LocalFileStorageService.cs",
+              "RelativeToolTip": "Application\\Services\\LocalFileStorageService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAmwBEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T21:09:16.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IFileStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\Interfaces\\IFileStorageService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IFileStorageService.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\Interfaces\\IFileStorageService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IFileStorageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T21:08:28.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PostPhoto.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Domain\\Entities\\PostPhoto.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\PostPhoto.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Domain\\Entities\\PostPhoto.cs",
+              "RelativeToolTip": "Domain\\Entities\\PostPhoto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T21:05:23.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\web.Api\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "web.Api\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\web.Api\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "web.Api\\Controllers\\CommentController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwCsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:39:13.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICommentService.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\Interfaces\\ICommentService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ICommentService.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\Interfaces\\ICommentService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ICommentService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:38:32.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Infrastructure\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Infrastructure\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\CommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:37:46.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\web.Api\\Program.cs",
+              "RelativeDocumentMoniker": "web.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\web.Api\\Program.cs",
+              "RelativeToolTip": "web.Api\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:10:34.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250127200856_yyy.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Infrastructure\\Migrations\\20250127200856_yyy.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250127200856_yyy.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Infrastructure\\Migrations\\20250127200856_yyy.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250127200856_yyy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:08:56.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "InfrastructureDependencies.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Infrastructure\\Extentions\\InfrastructureDependencies.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Extentions\\InfrastructureDependencies.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Infrastructure\\Extentions\\InfrastructureDependencies.cs",
+              "RelativeToolTip": "Infrastructure\\Extentions\\InfrastructureDependencies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:02:13.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\web.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "web.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\web.Api\\appsettings.json",
+              "RelativeToolTip": "web.Api\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-27T19:43:57.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CommentService.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\Services\\CommentService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\CommentService.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\Services\\CommentService.cs",
+              "RelativeToolTip": "Application\\Services\\CommentService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:41:42.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateCommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\DTOs\\DTOsRequests\\CreateCommentDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\DTOsRequests\\CreateCommentDto.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\DTOs\\DTOsRequests\\CreateCommentDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\DTOsRequests\\CreateCommentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:40:31.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\DTOs\\DTOsResponses\\CommentDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\DTOsResponses\\CommentDto.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\DTOs\\DTOsResponses\\CommentDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\DTOsResponses\\CommentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:40:04.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Domain\\RepositoryInterfaces\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\RepositoryInterfaces\\ICommentRepository.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Domain\\RepositoryInterfaces\\ICommentRepository.cs",
+              "RelativeToolTip": "Domain\\RepositoryInterfaces\\ICommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:39:29.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\web.Api\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "web.Api\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\web.Api\\Controllers\\PostController.cs",
+              "RelativeToolTip": "web.Api\\Controllers\\PostController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:36:15.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Infrastructure\\Context\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Context\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Infrastructure\\Context\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Infrastructure\\Context\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:35:19.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Infrastructure\\Repositories\\PostRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\PostRepository.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Infrastructure\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\PostRepository.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAmwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:34:58.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\PostService.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\Services\\PostService.cs",
+              "RelativeToolTip": "Application\\Services\\PostService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:34:33.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\Interfaces\\IPostService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IPostService.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\Interfaces\\IPostService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IPostService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:34:16.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdatePostDto.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\DTOs\\DTOsRequests\\UpdatePostDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\DTOsRequests\\UpdatePostDto.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\DTOs\\DTOsRequests\\UpdatePostDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\DTOsRequests\\UpdatePostDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:33:56.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreatePostDto.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\DTOs\\DTOsRequests\\CreatePostDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\DTOsRequests\\CreatePostDto.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\DTOs\\DTOsRequests\\CreatePostDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\DTOsRequests\\CreatePostDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:33:30.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PostDto.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\DTOs\\DTOsResponses\\PostDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\DTOsResponses\\PostDto.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\DTOs\\DTOsResponses\\PostDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\DTOsResponses\\PostDto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:33:12.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Domain\\RepositoryInterfaces\\IPostRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\RepositoryInterfaces\\IPostRepository.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Domain\\RepositoryInterfaces\\IPostRepository.cs",
+              "RelativeToolTip": "Domain\\RepositoryInterfaces\\IPostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:32:34.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Domain\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Domain\\Entities\\Comment.cs",
+              "RelativeToolTip": "Domain\\Entities\\Comment.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvw0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:31:55.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Domain\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Domain\\Entities\\Post.cs",
+              "RelativeToolTip": "Domain\\Entities\\Post.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:31:31.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwBcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:31:07.008Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -11,7 +11,9 @@ namespace Core.Domain.Entities
         public Guid Id { get; set; }
         public Guid UserId { get; set; } // Foreign key to the user who created the story
         public string Content { get; set; } // URL or base64 string for images/videos
+        public string ImageUrl { get; set; } // URL or path of the uploaded image
         public DateTime CreatedAt { get; set; }
+        public DateTime? UpdatedAt { get; set; }
         public DateTime ExpiryTime { get; set; } // When the story expires
         public bool IsActive => DateTime.UtcNow < ExpiryTime; // Helper to check if the story is active
 

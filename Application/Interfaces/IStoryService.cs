@@ -1,4 +1,5 @@
-﻿using Core.Domain.Entities;
+﻿using Core.Application.DTOs;
+using Core.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +10,8 @@ namespace Core.Application.Interfaces
 {
     public interface IStoryService
     {
-        void AddStory( Guid userId,string content, int hoursToExpire);
+        Task<Story> CreateStoryAsync(CreateStoryDto dto, Guid userId);
+        Task<Story> UpdateStoryAsync(UpdateStoryDto dto, Guid userId);
         void DeleteStory( Guid storyId);
         IEnumerable<Story> GetActiveStories(Guid userId);
     }

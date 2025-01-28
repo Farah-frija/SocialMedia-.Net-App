@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace Core.Domain.Enums
 {
-    public enum FriendRequestStatus
+    public enum FollowRequestStatus
     {
          Pending,
-          Accepted
+          Accepted,
+      
     }
 }

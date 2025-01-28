@@ -1,4 +1,6 @@
 
+using Core.Application.Extentions;
+using Core.Application.Mapper.FollowMapper;
 using Core.Application.Mapper.UserMapper;
 using Infrastructure.Extentions;
 using Infrastructure.Identity.Configurations;
@@ -18,7 +20,8 @@ builder.Services.AddAppDbContext(builder.Configuration);
 builder.Services.AddInfrastructureIdentityServices();
 builder.Services.AddAutoMapper(
     typeof(IdentityMapping).Assembly,
-    typeof(UserProfile).Assembly
+    typeof(UserProfile).Assembly,
+    typeof(FollowProfile).Assembly
 );
 var jwtSection = builder.Configuration.GetSection("JWTBearerTokenSettings");
 builder.Services.Configure<JWTBearerTokenSetting>(jwtSection); // Ajoute les paramètres JWT au conteneur d'injection de dépendances
@@ -50,8 +53,8 @@ builder.Services.AddAuthentication(options =>
         ClockSkew = TimeSpan.Zero // Spécifie la tolérance de la différence d'heure entre l'horloge du serveur et celle du client
     };
 });
-
-
+builder.Services.AddApplicationServices();
+builder.Services.AddInfrastructureRepoInjections();
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

@@ -13,9 +13,8 @@ namespace Core.Domain.Entities
       {
     public string? Biography { get; set; }
     public DateOnly? Birthday { get; set; }
-
-    public virtual List<FriendRequest> SentFriendRequests { get; set; }
-    public virtual List<FriendRequest> ReceivedFriendRequests { get; set; }
-}
+    public virtual List<Follow> Followings { get; set; }
+        public virtual List<Follow> Followers { get; set; }
+    }
 
 }

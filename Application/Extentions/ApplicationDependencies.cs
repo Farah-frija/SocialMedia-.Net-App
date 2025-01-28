@@ -1,4 +1,5 @@
-﻿using Core.Application.Mapper.UserMapper;
+﻿using Core.Application.Interfaces.Follows;
+using Core.Application.Mapper.UserMapper;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -16,7 +17,7 @@ namespace Core.Application.Extentions
         {
             public static void AddApplicationServices(this IServiceCollection services)
             {
-                //services.AddScoped<IAuthService, AuthService>();
+               services.AddScoped<IFollowService, FollowService>();
                 //services.AddScoped<IUserService, UserService>();
             }
             

@@ -2,3 +2,18 @@
 AppId: 2018274258585644
 #key 
 771fb742fbd1716449ef990fbdd75a20
+
+
+{
+  "email": "farah@frija.com",
+  "password": "strinGa1.",
+  "confirmPassword": "strinGa1.",
+  "userName": "faf"
+}
+{
+  "senderId": "cc93e7a6-4813-4e1f-9a5a-7bea72a8dde9",
+  "receiverId": "b685ddfa-e089-4560-9394-8e8ebe0681b2"
+}
+Follow id :
+6d985ec70f3640f6bfbc747dc9a7e86d
+c9d18b28d01b49d19eec55fa20d38529

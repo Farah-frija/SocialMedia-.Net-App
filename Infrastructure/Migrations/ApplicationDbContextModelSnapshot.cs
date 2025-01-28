@@ -22,7 +22,7 @@ namespace Infrastructure.Migrations
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
 
-            modelBuilder.Entity("Core.Domain.Entities.FriendRequest", b =>
+            modelBuilder.Entity("Core.Domain.Entities.Follow", b =>
                 {
                     b.Property<string>("Id")
                         .HasColumnType("text");
@@ -41,16 +41,13 @@ namespace Infrastructure.Migrations
                     b.Property<int>("Status")
                         .HasColumnType("integer");
 
-                    b.Property<DateTime?>("UpdatedAt")
-                        .HasColumnType("timestamp with time zone");
-
                     b.HasKey("Id");
 
                     b.HasIndex("ReceiverId");
 
                     b.HasIndex("SenderId");
 
-                    b.ToTable("FriendRequests");
+                    b.ToTable("Follows");
                 });
 
             modelBuilder.Entity("Core.Domain.Entities.User", b =>
@@ -255,16 +252,16 @@ namespace Infrastructure.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
-            modelBuilder.Entity("Core.Domain.Entities.FriendRequest", b =>
+            modelBuilder.Entity("Core.Domain.Entities.Follow", b =>
                 {
                     b.HasOne("Core.Domain.Entities.User", "Receiver")
-                        .WithMany("ReceivedFriendRequests")
+                        .WithMany("Followers")
                         .HasForeignKey("ReceiverId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("Core.Domain.Entities.User", "Sender")
-                        .WithMany("SentFriendRequests")
+                        .WithMany("Followings")
                         .HasForeignKey("SenderId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -327,9 +324,9 @@ namespace Infrastructure.Migrations
 
             modelBuilder.Entity("Core.Domain.Entities.User", b =>
                 {
-                    b.Navigation("ReceivedFriendRequests");
+                    b.Navigation("Followers");
 
-                    b.Navigation("SentFriendRequests");
+                    b.Navigation("Followings");
                 });
 #pragma warning restore 612, 618
         }

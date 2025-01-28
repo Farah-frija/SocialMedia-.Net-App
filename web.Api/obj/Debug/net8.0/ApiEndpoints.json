@@ -1,5 +1,117 @@
 [
   {
+    "ContainingType": "Web.Api.Controllers.FollowController",
+    "Method": "AcceptFollowRequest",
+    "RelativePath": "api/Follow/AcceptFollowRequest/{followId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "followId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Api.Controllers.FollowController",
+    "Method": "FollowUser",
+    "RelativePath": "api/Follow/Follow",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "followdetails",
+        "Type": "Core.Application.DTOs.DTOsRequests.FollowRequests.GetFollowDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Api.Controllers.FollowController",
+    "Method": "GetFollowers",
+    "RelativePath": "api/Follow/Followers/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Api.Controllers.FollowController",
+    "Method": "GetFollowing",
+    "RelativePath": "api/Follow/Following/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Api.Controllers.FollowController",
+    "Method": "RefuseFollowRequest",
+    "RelativePath": "api/Follow/RefuseFollowRequest/{followId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "followId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Api.Controllers.FollowController",
+    "Method": "UnfollowUser",
+    "RelativePath": "api/Follow/Unfollow",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "followdetails",
+        "Type": "Core.Application.DTOs.DTOsRequests.FollowRequests.GetFollowDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Api.Controllers.FollowController",
+    "Method": "GetWaitingFollowRequests",
+    "RelativePath": "api/Follow/WaitingFollowRequests/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "web.Api.Controllers.UsersController",
     "Method": "Login",
     "RelativePath": "api/Users/Login",

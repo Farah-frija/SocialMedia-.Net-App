@@ -10,25 +10,23 @@ namespace Infrastructure.Context
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) { }
 
         // DbSet for FriendRequest
-        public DbSet<FriendRequest> FriendRequests { get; set; }
+        public DbSet<Follow> Follows { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder); // Important for Identity!
 
             // Configure relationships for FriendRequest
-            modelBuilder.Entity<User>()
-                .HasMany(u => u.SentFriendRequests)
-                .WithOne(u=>u.Sender)
-                .HasForeignKey(u => u.SenderId)
-              
-                .IsRequired();
+            modelBuilder.Entity<Follow>()
+         .HasOne(f => f.Sender)
+         .WithMany(u => u.Followings)  // A single list, both sent and received follows
+         .HasForeignKey(f => f.SenderId)
+         .IsRequired();
 
-            modelBuilder.Entity<User>()
-                .HasMany(u => u.ReceivedFriendRequests)
-                .WithOne(u => u.Receiver)
-                .HasForeignKey(u => u.ReceiverId)
-              
+            modelBuilder.Entity<Follow>()
+                .HasOne(f => f.Receiver)
+                .WithMany(u => u.Followers)  // The same list here, but refers to received follows
+                .HasForeignKey(f => f.ReceiverId)
                 .IsRequired();
         }
     }

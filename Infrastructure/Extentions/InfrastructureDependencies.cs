@@ -1,5 +1,7 @@
-﻿using Core.Application.Interfaces.Identity;
+﻿using Core.Application.Interfaces.Follows;
+using Core.Application.Interfaces.Identity;
 using Core.Domain.Entities;
+using Core.Domain.RepositoryInterfaces.Follows;
 using Infrastructure.Context;
 
 using Infrastructure.Identity.Services;
@@ -38,9 +40,16 @@ namespace Infrastructure.Extentions
            
 
 
+
+        }
+        public static void AddInfrastructureRepoInjections(this IServiceCollection services)
+        {
+            services.AddScoped<IFollowRepo, FollowRepo>();
+
+
         }
 
-     
+
 
 
 

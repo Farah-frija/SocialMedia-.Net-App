@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|solutionrelative:web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\infrastructure\\extentions\\infrastructuredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\extentions\\infrastructuredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\application\\mapper\\usermapper\\commandmapping\\commandidentitymapping\\registrationmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\mapper\\usermapper\\commandmapping\\commandidentitymapping\\registrationmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\infrastructure\\identity\\mappings\\identitymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\mappings\\identitymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\domain\\core.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\core.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\application\\interfaces\\identity\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\interfaces\\identity\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\application\\core.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\core.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\application\\mapper\\usermapper\\querrymapping\\querryentitymapping\\loginmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\mapper\\usermapper\\querrymapping\\querryentitymapping\\loginmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\infrastructure\\identity\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\infrastructure\\migrations\\20250128092904_initialmigrations4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250128092904_initialmigrations4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\infrastructure\\migrations\\20250128092632_initialmigrations3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250128092632_initialmigrations3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\infrastructure\\migrations\\20250128092453_initialmigrations2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250128092453_initialmigrations2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\infrastructure\\migrations\\20250126215054_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250126215054_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\domain\\entities\\friendrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\entities\\friendrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\domain\\enums\\freindrequeststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\enums\\freindrequeststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\infrastructure\\context\\hubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\hubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\web.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|solutionrelative:web.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\application\\dtos\\dtosresponses\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\dtos\\dtosresponses\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\infrastructure\\identity\\configurations\\tokenconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\configurations\\tokenconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:26:35.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Context\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Context\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Context\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Infrastructure\\Context\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:29:38.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Interfaces\\Identity\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Identity\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Interfaces\\Identity\\IAuthService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Identity\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:29:06.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Core.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Core.Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Core.Application.csproj",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Core.Application.csproj",
+              "RelativeToolTip": "Application\\Core.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-28T08:03:45.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-28T08:03:54.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InfrastructureDependencies.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Extentions\\InfrastructureDependencies.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Extentions\\InfrastructureDependencies.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Extentions\\InfrastructureDependencies.cs",
+              "RelativeToolTip": "Infrastructure\\Extentions\\InfrastructureDependencies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:39:45.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginMapping.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Mapper\\UserMapper\\QuerryMapping\\QuerryEntityMapping\\LoginMapping.cs",
+              "RelativeDocumentMoniker": "Application\\Mapper\\UserMapper\\QuerryMapping\\QuerryEntityMapping\\LoginMapping.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Mapper\\UserMapper\\QuerryMapping\\QuerryEntityMapping\\LoginMapping.cs",
+              "RelativeToolTip": "Application\\Mapper\\UserMapper\\QuerryMapping\\QuerryEntityMapping\\LoginMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:26:05.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\Program.cs",
+              "RelativeDocumentMoniker": "web.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\Program.cs",
+              "RelativeToolTip": "web.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:42:17.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IdentityMapping.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Identity\\Mappings\\IdentityMapping.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Mappings\\IdentityMapping.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Identity\\Mappings\\IdentityMapping.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\Mappings\\IdentityMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:19:08.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrationMapping.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Mapper\\UserMapper\\CommandMapping\\CommandIdentityMapping\\RegistrationMapping.cs",
+              "RelativeDocumentMoniker": "Application\\Mapper\\UserMapper\\CommandMapping\\CommandIdentityMapping\\RegistrationMapping.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Mapper\\UserMapper\\CommandMapping\\CommandIdentityMapping\\RegistrationMapping.cs",
+              "RelativeToolTip": "Application\\Mapper\\UserMapper\\CommandMapping\\CommandIdentityMapping\\RegistrationMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:25:57.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Core.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\Core.Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Core.Domain.csproj",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\Core.Domain.csproj",
+              "RelativeToolTip": "Domain\\Core.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-28T14:27:15.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Identity\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Identity\\Services\\AuthService.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\Services\\AuthService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T10:16:42.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAD8BAAAAAAAAAAD4v2UBAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:19:04.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250128092904_initialMigrations4.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Migrations\\20250128092904_initialMigrations4.Designer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250128092904_initialMigrations4.Designer.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Migrations\\20250128092904_initialMigrations4.Designer.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250128092904_initialMigrations4.Designer.cs",
+              "ViewState": "AgIAACYBAAAAAAAAAAD4v0wBAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:19:01.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250128092632_initialMigrations3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Migrations\\20250128092632_initialMigrations3.Designer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250128092632_initialMigrations3.Designer.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Migrations\\20250128092632_initialMigrations3.Designer.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250128092632_initialMigrations3.Designer.cs",
+              "ViewState": "AgIAACYBAAAAAAAAAAD4v0wBAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:18:58.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250128092453_initialMigrations2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Migrations\\20250128092453_initialMigrations2.Designer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250128092453_initialMigrations2.Designer.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Migrations\\20250128092453_initialMigrations2.Designer.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250128092453_initialMigrations2.Designer.cs",
+              "ViewState": "AgIAACYBAAAAAAAAAAD4v0wBAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:18:54.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250126215054_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Migrations\\20250126215054_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250126215054_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Migrations\\20250126215054_InitialCreate.Designer.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250126215054_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAD4vxEBAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:18:52.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "friendRequest.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\Entities\\friendRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\friendRequest.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\Entities\\friendRequest.cs",
+              "RelativeToolTip": "Domain\\Entities\\friendRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:21:03.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FreindRequestStatus.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\Enums\\FreindRequestStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\FreindRequestStatus.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\Enums\\FreindRequestStatus.cs",
+              "RelativeToolTip": "Domain\\Enums\\FreindRequestStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:22:40.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HubContext.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Context\\HubContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Context\\HubContext.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Context\\HubContext.cs",
+              "RelativeToolTip": "Infrastructure\\Context\\HubContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:04:21.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\DTOs\\DTOsResponses\\LoginUserDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\DTOsResponses\\LoginUserDto.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\DTOs\\DTOsResponses\\LoginUserDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\DTOsResponses\\LoginUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:38:05.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TokenConfig.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Identity\\Configurations\\TokenConfig.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Configurations\\TokenConfig.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Identity\\Configurations\\TokenConfig.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\Configurations\\TokenConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:33:27.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "web.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "web.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwFUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T07:08:42.814Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

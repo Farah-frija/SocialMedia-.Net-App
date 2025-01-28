@@ -2,11 +2,17 @@ C:\Users\farah\OneDrive\Documents\GL3Sem1\DotNet\ScolarProject\Infrastructure\bi
 C:\Users\farah\OneDrive\Documents\GL3Sem1\DotNet\ScolarProject\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
 C:\Users\farah\OneDrive\Documents\GL3Sem1\DotNet\ScolarProject\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
 C:\Users\farah\OneDrive\Documents\GL3Sem1\DotNet\ScolarProject\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\farah\OneDrive\Documents\GL3Sem1\DotNet\ScolarProject\Infrastructure\bin\Debug\net8.0\Core.Application.dll
+C:\Users\farah\OneDrive\Documents\GL3Sem1\DotNet\ScolarProject\Infrastructure\bin\Debug\net8.0\Core.Domain.dll
+C:\Users\farah\OneDrive\Documents\GL3Sem1\DotNet\ScolarProject\Infrastructure\bin\Debug\net8.0\Core.Application.pdb
+C:\Users\farah\OneDrive\Documents\GL3Sem1\DotNet\ScolarProject\Infrastructure\bin\Debug\net8.0\Core.Domain.pdb
 C:\Users\farah\OneDrive\Documents\GL3Sem1\DotNet\ScolarProject\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
 C:\Users\farah\OneDrive\Documents\GL3Sem1\DotNet\ScolarProject\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\farah\OneDrive\Documents\GL3Sem1\DotNet\ScolarProject\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
 C:\Users\farah\OneDrive\Documents\GL3Sem1\DotNet\ScolarProject\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
 C:\Users\farah\OneDrive\Documents\GL3Sem1\DotNet\ScolarProject\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\farah\OneDrive\Documents\GL3Sem1\DotNet\ScolarProject\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\farah\OneDrive\Documents\GL3Sem1\DotNet\ScolarProject\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
 C:\Users\farah\OneDrive\Documents\GL3Sem1\DotNet\ScolarProject\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
 C:\Users\farah\OneDrive\Documents\GL3Sem1\DotNet\ScolarProject\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 C:\Users\farah\OneDrive\Documents\GL3Sem1\DotNet\ScolarProject\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb

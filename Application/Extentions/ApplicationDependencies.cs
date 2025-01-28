@@ -1,7 +1,9 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Core.Application.Mapper.UserMapper;
+using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -17,13 +19,9 @@ namespace Core.Application.Extentions
                 //services.AddScoped<IAuthService, AuthService>();
                 //services.AddScoped<IUserService, UserService>();
             }
+            
 
-
-            public static void AddAutoMapper(this IServiceCollection services)
-            {
-
-           services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
-        }
+        
         }
     }
 

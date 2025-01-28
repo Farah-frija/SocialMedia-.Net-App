@@ -26,6 +26,8 @@ namespace Core.Domain.Entities
 
         // Optionally, add other domain-specific properties such as role, avatar, etc.
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow; // Record when the user is created
+        public virtual PrivacySettings PrivacySettings { get; set; }
+        public IEnumerable<Story> Stories { get; set; }
     }
 
 }

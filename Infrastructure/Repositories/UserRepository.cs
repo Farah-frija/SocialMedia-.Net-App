@@ -1,4 +1,5 @@
 ﻿using Core.Domain.Entities;
+using Core.Domain.RepositoryInterfaces;
 using Infrastructure.Data;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Infrastructure.Repositories
 {
-    public class UserRepository
+    public class UserRepository:IUserRepository
     {
         private readonly ApplicationDbContext _dbContext;
 

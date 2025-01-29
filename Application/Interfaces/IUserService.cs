@@ -1,4 +1,5 @@
 ﻿using Core.Application.DTOs;
+using Core.Application.DTOs.DtoRequests;
 using System;
 using System.Collections.Generic;
 using System.Linq;

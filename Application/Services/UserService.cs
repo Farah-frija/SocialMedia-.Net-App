@@ -1,4 +1,5 @@
 ﻿using Core.Application.DTOs;
+using Core.Application.DTOs.DtoRequests;
 using Core.Application.Interfaces;
 using Core.Domain.RepositoryInterfaces;
 using Microsoft.AspNet.Identity;

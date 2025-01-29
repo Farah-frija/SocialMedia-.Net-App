@@ -7,13 +7,19 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DTOs\DTOsRequests\" />
+    <Compile Remove="DTOs\DTOsRequests\**" />
+    <EmbeddedResource Remove="DTOs\DTOsRequests\**" />
+    <None Remove="DTOs\DTOsRequests\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Mapper\UserMapper\CommandMapping\" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.3.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="9.0.1" />
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.0.3" />
   </ItemGroup>
 

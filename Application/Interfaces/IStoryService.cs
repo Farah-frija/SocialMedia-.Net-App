@@ -1,4 +1,4 @@
-﻿using Core.Application.DTOs;
+﻿using Core.Application.DTOs.DtoRequests;
 using Core.Domain.Entities;
 using System;
 using System.Collections.Generic;
@@ -10,9 +10,9 @@ namespace Core.Application.Interfaces
 {
     public interface IStoryService
     {
-        Task<Story> CreateStoryAsync(CreateStoryDto dto, Guid userId);
-        Task<Story> UpdateStoryAsync(UpdateStoryDto dto, Guid userId);
-        void DeleteStory( Guid storyId);
-        IEnumerable<Story> GetActiveStories(Guid userId);
+        Task<Story> AddStoryAsync(CreateStoryDto storyDto);
+        Task<Story> UpdateStoryAsync(Guid id,UpdateStoryDto storyDto);
+        Task<IEnumerable<Story>> GetActiveStoriesAsync(Guid userId);
+        Task DeleteStoryAsync(Guid id);
     }
 }

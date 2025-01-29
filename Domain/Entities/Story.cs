@@ -19,6 +19,8 @@ namespace Core.Domain.Entities
 
         // Navigation property
         public User User { get; set; }
+        public IEnumerable<StoryComment> Comments {  get; set; }
+        public IEnumerable<StoryLike> Likes {  get; set; }
 
     }
 }

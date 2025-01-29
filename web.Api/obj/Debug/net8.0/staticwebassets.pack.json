@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\GL3\\social media app\\web.Api\\wwwroot\\uploads\\0b2ef1d5-6923-4591-8d89-b3a830063890_ryan-wilson-YdpDztAnW9w-unsplash.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0b2ef1d5-6923-4591-8d89-b3a830063890_ryan-wilson-YdpDztAnW9w-unsplash.jpg"
+    },
+    {
+      "Id": "D:\\GL3\\social media app\\web.Api\\wwwroot\\uploads\\3cd36342-c52e-4a16-be03-c89fba0d84f5_viviana-rishe-ZQ-El23uCRE-unsplash.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3cd36342-c52e-4a16-be03-c89fba0d84f5_viviana-rishe-ZQ-El23uCRE-unsplash.jpg"
+    },
+    {
+      "Id": "D:\\GL3\\social media app\\web.Api\\wwwroot\\uploads\\45d5c353-dcee-4ac8-96c9-d9ee6ae3817b_viviana-rishe-ZQ-El23uCRE-unsplash.jpg",
+      "PackagePath": "staticwebassets\\uploads\\45d5c353-dcee-4ac8-96c9-d9ee6ae3817b_viviana-rishe-ZQ-El23uCRE-unsplash.jpg"
+    },
+    {
+      "Id": "D:\\GL3\\social media app\\web.Api\\wwwroot\\uploads\\7de74bfc-11df-4cd7-b826-3b4f4e6efee6_viviana-rishe-ZQ-El23uCRE-unsplash.jpg",
+      "PackagePath": "staticwebassets\\uploads\\7de74bfc-11df-4cd7-b826-3b4f4e6efee6_viviana-rishe-ZQ-El23uCRE-unsplash.jpg"
+    },
+    {
+      "Id": "D:\\GL3\\social media app\\web.Api\\wwwroot\\uploads\\8db5d484-be48-4426-9f03-9f7318915680_ryan-wilson-YdpDztAnW9w-unsplash.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8db5d484-be48-4426-9f03-9f7318915680_ryan-wilson-YdpDztAnW9w-unsplash.jpg"
+    },
+    {
+      "Id": "D:\\GL3\\social media app\\web.Api\\wwwroot\\uploads\\b1a4369d-528d-46e2-b021-57a2f6284f9b_cuisine.jpg",
+      "PackagePath": "staticwebassets\\uploads\\b1a4369d-528d-46e2-b021-57a2f6284f9b_cuisine.jpg"
+    },
+    {
+      "Id": "D:\\GL3\\social media app\\web.Api\\wwwroot\\uploads\\c4a399ad-6e93-4882-b1e9-ed7c3c9f22f6_viviana-rishe-ZQ-El23uCRE-unsplash.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c4a399ad-6e93-4882-b1e9-ed7c3c9f22f6_viviana-rishe-ZQ-El23uCRE-unsplash.jpg"
+    },
+    {
+      "Id": "D:\\GL3\\social media app\\web.Api\\wwwroot\\uploads\\f08e32fd-56f1-45ee-934c-956620350a87_ryan-wilson-YdpDztAnW9w-unsplash.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f08e32fd-56f1-45ee-934c-956620350a87_ryan-wilson-YdpDztAnW9w-unsplash.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.web.Api.props",
+      "PackagePath": "build\\web.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.web.Api.props",
+      "PackagePath": "buildMultiTargeting\\web.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.web.Api.props",
+      "PackagePath": "buildTransitive\\web.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.web.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.web.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

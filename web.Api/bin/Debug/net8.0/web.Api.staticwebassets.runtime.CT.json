@@ -1,0 +1,31 @@
+{
+  "ContentRoots": [
+    "/app/wwwroot/"
+  ],
+  "Root": {
+    "Children": {
+      "uploads": {
+        "Children": {
+          "8db5d484-be48-4426-9f03-9f7318915680_ryan-wilson-YdpDztAnW9w-unsplash.jpg": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "uploads/8db5d484-be48-4426-9f03-9f7318915680_ryan-wilson-YdpDztAnW9w-unsplash.jpg"
+            },
+            "Patterns": null
+          }
+        },
+        "Asset": null,
+        "Patterns": null
+      }
+    },
+    "Asset": null,
+    "Patterns": [
+      {
+        "ContentRootIndex": 0,
+        "Pattern": "**",
+        "Depth": 0
+      }
+    ]
+  }
+}

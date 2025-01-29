@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Core.Application.DTOs
+namespace Core.Application.DTOs.DtoRequests
 {
     public class UpdateUserProfileDto
     {

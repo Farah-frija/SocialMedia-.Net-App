@@ -3,44 +3,99 @@
   "WorkspaceRootPath": "D:\\GL3\\social media app\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|d:\\gl3\\social media app\\web.api\\controllers\\storycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|solutionrelative:web.api\\controllers\\storycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|d:\\gl3\\social media app\\web.api\\controllers\\storycommentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|solutionrelative:web.api\\controllers\\storycommentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|d:\\gl3\\social media app\\web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|solutionrelative:web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|d:\\gl3\\social media app\\domain\\repositoryinterfaces\\istoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\repositoryinterfaces\\istoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|d:\\gl3\\social media app\\application\\services\\storylikeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\services\\storylikeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|d:\\gl3\\social media app\\infrastructure\\repositories\\storyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\storyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|d:\\gl3\\social media app\\application\\interfaces\\istorylikeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\interfaces\\istorylikeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|d:\\gl3\\social media app\\application\\services\\identity\\storyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\services\\identity\\storyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|d:\\gl3\\social media app\\infrastructure\\repositories\\storylikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\storylikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|d:\\gl3\\social media app\\application\\interfaces\\istoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\interfaces\\istoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|d:\\gl3\\social media app\\domain\\repositoryinterfaces\\istorylikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\repositoryinterfaces\\istorylikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|d:\\gl3\\social media app\\web.api\\controllers\\storycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|solutionrelative:web.api\\controllers\\storycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GL3\\social media app\\Infrastructure\\Migrations\\20250129221822_AddStoryLikeEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20250129221822_AddStoryLikeEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|d:\\gl3\\social media app\\infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|d:\\gl3\\social media app\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GL3\\social media app\\Infrastructure\\Migrations\\20250129221655_AddStoryLikeEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20250129221655_AddStoryLikeEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|d:\\gl3\\social media app\\domain\\entities\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\entities\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|d:\\gl3\\social media app\\domain\\entities\\storylike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\entities\\storylike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|d:\\gl3\\social media app\\application\\services\\storycommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\services\\storycommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|d:\\gl3\\social media app\\application\\interfaces\\istorycommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\interfaces\\istorycommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|d:\\gl3\\social media app\\application\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|d:\\gl3\\social media app\\application\\dtos\\dtosresponses\\storycommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\dtos\\dtosresponses\\storycommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|d:\\gl3\\social media app\\application\\mapper\\usermapper\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\mapper\\usermapper\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|d:\\gl3\\social media app\\application\\services\\storyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\services\\storyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|d:\\gl3\\social media app\\domain\\repositoryinterfaces\\istorycommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\repositoryinterfaces\\istorycommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|d:\\gl3\\social media app\\web.api\\web.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|solutionrelative:web.api\\web.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|d:\\gl3\\social media app\\application\\core.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\core.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ScolarProject/True/SqlTable/dbo.Stories.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|d:\\gl3\\social media app\\application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|d:\\gl3\\social media app\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|d:\\gl3\\social media app\\domain\\enums\\friendshipstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,10 +126,6 @@
       "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|d:\\gl3\\social media app\\application\\services\\privacysettingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\services\\privacysettingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|d:\\gl3\\social media app\\application\\interfaces\\iprivacysettingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\interfaces\\iprivacysettingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -91,32 +142,8 @@
       "RelativeMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|solutionrelative:web.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|d:\\gl3\\social media app\\application\\dtos\\updateuserprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\dtos\\updateuserprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|d:\\gl3\\social media app\\application\\dtos\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\dtos\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|d:\\gl3\\social media app\\domain\\repositoryinterfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\repositoryinterfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|d:\\gl3\\social media app\\web.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|solutionrelative:web.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|d:\\gl3\\social media app\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|d:\\gl3\\social media app\\application\\mapper\\usermapper\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\mapper\\usermapper\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|d:\\gl3\\social media app\\application\\mapper\\usermapper\\querrymapping\\getuserslistmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\mapper\\usermapper\\querrymapping\\getuserslistmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|d:\\gl3\\social media app\\application\\interfaces\\identity\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -129,10 +156,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|d:\\gl3\\social media app\\infrastructure\\identity\\mappings\\identitymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\mappings\\identitymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|d:\\gl3\\social media app\\web.api\\web.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|solutionrelative:web.api\\web.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|d:\\gl3\\social media app\\application\\services\\identity\\authentificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -149,10 +172,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|d:\\gl3\\social media app\\application\\dtos\\dtosresponses\\getusersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\dtos\\dtosresponses\\getusersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|d:\\gl3\\social media app\\application\\core.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\core.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|d:\\gl3\\social media app\\web.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -178,7 +197,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -202,476 +221,252 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StoryController.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\web.Api\\Controllers\\StoryController.cs",
-              "RelativeDocumentMoniker": "web.Api\\Controllers\\StoryController.cs",
-              "ToolTip": "D:\\GL3\\social media app\\web.Api\\Controllers\\StoryController.cs",
-              "RelativeToolTip": "web.Api\\Controllers\\StoryController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAqwCkAAAApAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "20250129221822_AddStoryLikeEntity.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Infrastructure\\Migrations\\20250129221822_AddStoryLikeEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250129221822_AddStoryLikeEntity.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Infrastructure\\Migrations\\20250129221822_AddStoryLikeEntity.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250129221822_AddStoryLikeEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:47:03.916Z"
+              "WhenOpened": "2025-01-29T22:18:22.353Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IStoryService.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\Interfaces\\IStoryService.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\IStoryService.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Application\\Interfaces\\IStoryService.cs",
-              "RelativeToolTip": "Application\\Interfaces\\IStoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:31:48.306Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\GL3\\social media app\\web.Api\\Program.cs",
               "RelativeDocumentMoniker": "web.Api\\Program.cs",
               "ToolTip": "D:\\GL3\\social media app\\web.Api\\Program.cs",
               "RelativeToolTip": "web.Api\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAMwCQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T18:37:50.207Z",
+              "WhenOpened": "2025-01-29T15:42:48.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "20250128132304_addStoryTable.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Infrastructure\\Migrations\\20250128132304_addStoryTable.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250128132304_addStoryTable.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Infrastructure\\Migrations\\20250128132304_addStoryTable.cs",
-              "RelativeToolTip": "Infrastructure\\Migrations\\20250128132304_addStoryTable.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "20250129221655_AddStoryLikeEntity.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Infrastructure\\Migrations\\20250129221655_AddStoryLikeEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250129221655_AddStoryLikeEntity.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Infrastructure\\Migrations\\20250129221655_AddStoryLikeEntity.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250129221655_AddStoryLikeEntity.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T13:23:05.038Z"
+              "WhenOpened": "2025-01-29T22:16:56.023Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StoryRepository.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Infrastructure\\Repositories\\StoryRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\StoryRepository.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Infrastructure\\Repositories\\StoryRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repositories\\StoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:27:14.654Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IStoryRepository.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Domain\\RepositoryInterfaces\\IStoryRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\RepositoryInterfaces\\IStoryRepository.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Domain\\RepositoryInterfaces\\IStoryRepository.cs",
-              "RelativeToolTip": "Domain\\RepositoryInterfaces\\IStoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:23:53.255Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StoryService.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\Services\\Identity\\StoryService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Identity\\StoryService.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Application\\Services\\Identity\\StoryService.cs",
-              "RelativeToolTip": "Application\\Services\\Identity\\StoryService.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAewA0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:37:11.787Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Story.cs",
               "DocumentMoniker": "D:\\GL3\\social media app\\Domain\\Entities\\Story.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Story.cs",
               "ToolTip": "D:\\GL3\\social media app\\Domain\\Entities\\Story.cs",
               "RelativeToolTip": "Domain\\Entities\\Story.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBIAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:19:22.364Z"
+              "WhenOpened": "2025-01-29T22:07:51.271Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FriendshipStatus.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Domain\\enums\\FriendshipStatus.cs",
-              "RelativeDocumentMoniker": "Domain\\enums\\FriendshipStatus.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Domain\\enums\\FriendshipStatus.cs",
-              "RelativeToolTip": "Domain\\enums\\FriendshipStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "StoryCommentController.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\web.Api\\Controllers\\StoryCommentController.cs",
+              "RelativeDocumentMoniker": "web.Api\\Controllers\\StoryCommentController.cs",
+              "ToolTip": "D:\\GL3\\social media app\\web.Api\\Controllers\\StoryCommentController.cs",
+              "RelativeToolTip": "web.Api\\Controllers\\StoryCommentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T09:15:38.605Z"
+              "WhenOpened": "2025-01-29T15:19:28.36Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\IUserService.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Application\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "Application\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA5AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "StoryController.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\web.Api\\Controllers\\StoryController.cs",
+              "RelativeDocumentMoniker": "web.Api\\Controllers\\StoryController.cs",
+              "ToolTip": "D:\\GL3\\social media app\\web.Api\\Controllers\\StoryController.cs",
+              "RelativeToolTip": "web.Api\\Controllers\\StoryController.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAcwBQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T19:38:28.276Z"
+              "WhenOpened": "2025-01-29T22:28:58.313Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "IStoryLikeRepository.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Domain\\RepositoryInterfaces\\IStoryLikeRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\RepositoryInterfaces\\IStoryLikeRepository.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Domain\\RepositoryInterfaces\\IStoryLikeRepository.cs",
+              "RelativeToolTip": "Domain\\RepositoryInterfaces\\IStoryLikeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T22:19:50.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StoryLikeRepository.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Infrastructure\\Repositories\\StoryLikeRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\StoryLikeRepository.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Infrastructure\\Repositories\\StoryLikeRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\StoryLikeRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T22:20:59.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStoryLikeService.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\Interfaces\\IStoryLikeService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IStoryLikeService.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Application\\Interfaces\\IStoryLikeService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IStoryLikeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T22:23:40.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoryLikeService.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\Services\\StoryLikeService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\StoryLikeService.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Application\\Services\\StoryLikeService.cs",
+              "RelativeToolTip": "Application\\Services\\StoryLikeService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T22:24:33.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ApplicationDBContext.cs",
               "DocumentMoniker": "D:\\GL3\\social media app\\Infrastructure\\Context\\ApplicationDBContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Context\\ApplicationDBContext.cs",
               "ToolTip": "D:\\GL3\\social media app\\Infrastructure\\Context\\ApplicationDBContext.cs",
               "RelativeToolTip": "Infrastructure\\Context\\ApplicationDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowEEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T18:15:27.942Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Domain\\Entities\\User.cs",
-              "RelativeToolTip": "Domain\\Entities\\User.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwBwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T09:14:08.816Z"
+              "WhenOpened": "2025-01-29T22:06:47.737Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\UserService.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Application\\Services\\UserService.cs",
-              "RelativeToolTip": "Application\\Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
+              "Title": "StoryLike.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Domain\\Entities\\StoryLike.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\StoryLike.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Domain\\Entities\\StoryLike.cs",
+              "RelativeToolTip": "Domain\\Entities\\StoryLike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T19:37:37.702Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "PrivacySettingsService.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\Services\\PrivacySettingsService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\PrivacySettingsService.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Application\\Services\\PrivacySettingsService.cs",
-              "RelativeToolTip": "Application\\Services\\PrivacySettingsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T20:44:17.03Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PrivacySettings.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Domain\\Entities\\PrivacySettings.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\PrivacySettings.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Domain\\Entities\\PrivacySettings.cs",
-              "RelativeToolTip": "Domain\\Entities\\PrivacySettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T17:49:26.329Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PrivacyLevel.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Domain\\enums\\PrivacyLevel.cs",
-              "RelativeDocumentMoniker": "Domain\\enums\\PrivacyLevel.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Domain\\enums\\PrivacyLevel.cs",
-              "RelativeToolTip": "Domain\\enums\\PrivacyLevel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T17:45:21.93Z"
+              "WhenOpened": "2025-01-29T22:06:21.754Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "PrivacySettingsController.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\web.Api\\Controllers\\PrivacySettingsController.cs",
-              "RelativeDocumentMoniker": "web.Api\\Controllers\\PrivacySettingsController.cs",
-              "ToolTip": "D:\\GL3\\social media app\\web.Api\\Controllers\\PrivacySettingsController.cs",
-              "RelativeToolTip": "web.Api\\Controllers\\PrivacySettingsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Mapper\\MappingProfile.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Application\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "Application\\Mapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T21:00:50.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T20:11:52.132Z"
+              "WhenOpened": "2025-01-29T21:41:19.203Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "PrivacySettingsRepository.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Infrastructure\\Repositories\\PrivacySettingsRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\PrivacySettingsRepository.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Infrastructure\\Repositories\\PrivacySettingsRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repositories\\PrivacySettingsRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Title": "StoryCommentDto.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\DTOs\\DTOsResponses\\StoryCommentDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\DTOsResponses\\StoryCommentDto.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Application\\DTOs\\DTOsResponses\\StoryCommentDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\DTOsResponses\\StoryCommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T20:52:59.786Z"
+              "WhenOpened": "2025-01-29T21:35:33.142Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IPrivacySettingsService.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\Interfaces\\IPrivacySettingsService.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\IPrivacySettingsService.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Application\\Interfaces\\IPrivacySettingsService.cs",
-              "RelativeToolTip": "Application\\Interfaces\\IPrivacySettingsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T20:43:25.6Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "20250127201640_addPrivacySettings.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Infrastructure\\Migrations\\20250127201640_addPrivacySettings.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250127201640_addPrivacySettings.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Infrastructure\\Migrations\\20250127201640_addPrivacySettings.cs",
-              "RelativeToolTip": "Infrastructure\\Migrations\\20250127201640_addPrivacySettings.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T20:16:41.185Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "20250127195027_addPrivacySettings.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Infrastructure\\Migrations\\20250127195027_addPrivacySettings.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250127195027_addPrivacySettings.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Infrastructure\\Migrations\\20250127195027_addPrivacySettings.cs",
-              "RelativeToolTip": "Infrastructure\\Migrations\\20250127195027_addPrivacySettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T19:50:27.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\web.Api\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "web.Api\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\GL3\\social media app\\web.Api\\Controllers\\UserController.cs",
-              "RelativeToolTip": "web.Api\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T15:10:40.73Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "UserProfileDto.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\DTOs\\UserProfileDto.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\UserProfileDto.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Application\\DTOs\\UserProfileDto.cs",
-              "RelativeToolTip": "Application\\DTOs\\UserProfileDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T20:16:28.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Domain\\RepositoryInterfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\RepositoryInterfaces\\IUserRepository.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Domain\\RepositoryInterfaces\\IUserRepository.cs",
-              "RelativeToolTip": "Domain\\RepositoryInterfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T20:12:16.544Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "UpdateUserProfileDto.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\DTOs\\UpdateUserProfileDto.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\UpdateUserProfileDto.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Application\\DTOs\\UpdateUserProfileDto.cs",
-              "RelativeToolTip": "Application\\DTOs\\UpdateUserProfileDto.cs",
+              "DocumentIndex": 13,
+              "Title": "IStoryCommentService.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\Interfaces\\IStoryCommentService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IStoryCommentService.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Application\\Interfaces\\IStoryCommentService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IStoryCommentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T20:44:42.349Z"
+              "WhenOpened": "2025-01-29T15:18:20.505Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Core.Domain.csproj",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Domain\\Core.Domain.csproj",
-              "RelativeDocumentMoniker": "Domain\\Core.Domain.csproj",
-              "ToolTip": "D:\\GL3\\social media app\\Domain\\Core.Domain.csproj",
-              "RelativeToolTip": "Domain\\Core.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-26T19:32:15.97Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "20250127143913_firstMigration.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Infrastructure\\Migrations\\20250127143913_firstMigration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250127143913_firstMigration.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Infrastructure\\Migrations\\20250127143913_firstMigration.cs",
-              "RelativeToolTip": "Infrastructure\\Migrations\\20250127143913_firstMigration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "StoryCommentService.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\Services\\StoryCommentService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\StoryCommentService.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Application\\Services\\StoryCommentService.cs",
+              "RelativeToolTip": "Application\\Services\\StoryCommentService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwCsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T14:39:13.517Z"
+              "WhenOpened": "2025-01-29T15:14:55.146Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\GL3\\social media app\\web.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "web.Api\\appsettings.json",
-              "ToolTip": "D:\\GL3\\social media app\\web.Api\\appsettings.json",
-              "RelativeToolTip": "web.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-21T18:31:20.664Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Infrastructure.csproj",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Infrastructure\\Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
-              "ToolTip": "D:\\GL3\\social media app\\Infrastructure\\Infrastructure.csproj",
-              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
-              "ViewState": "AgIAAAwAAAAAAAAAAIBJwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-21T18:26:14.137Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\Interfaces\\Identity\\IAuthService.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\Identity\\IAuthService.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Application\\Interfaces\\Identity\\IAuthService.cs",
-              "RelativeToolTip": "Application\\Interfaces\\Identity\\IAuthService.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAIBJwA4AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T09:43:07.209Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "AuthentificationService.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\Services\\Identity\\AuthentificationService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Identity\\AuthentificationService.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Application\\Services\\Identity\\AuthentificationService.cs",
-              "RelativeToolTip": "Application\\Services\\Identity\\AuthentificationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T10:51:30.503Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Infrastructure\\Identity\\Model\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Model\\ApplicationUser.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Infrastructure\\Identity\\Model\\ApplicationUser.cs",
-              "RelativeToolTip": "Infrastructure\\Identity\\Model\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T10:57:00.798Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "GetUsersListMapping.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\Mapper\\UserMapper\\QuerryMapping\\GetUsersListMapping.cs",
-              "RelativeDocumentMoniker": "Application\\Mapper\\UserMapper\\QuerryMapping\\GetUsersListMapping.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Application\\Mapper\\UserMapper\\QuerryMapping\\GetUsersListMapping.cs",
-              "RelativeToolTip": "Application\\Mapper\\UserMapper\\QuerryMapping\\GetUsersListMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T08:25:15.896Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "web.Api.csproj",
-              "DocumentMoniker": "D:\\GL3\\social media app\\web.Api\\web.Api.csproj",
-              "RelativeDocumentMoniker": "web.Api\\web.Api.csproj",
-              "ToolTip": "D:\\GL3\\social media app\\web.Api\\web.Api.csproj",
-              "RelativeToolTip": "web.Api\\web.Api.csproj",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-21T18:38:53.559Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "IdentityMapping.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Infrastructure\\Identity\\Mappings\\IdentityMapping.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Mappings\\IdentityMapping.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Infrastructure\\Identity\\Mappings\\IdentityMapping.cs",
-              "RelativeToolTip": "Infrastructure\\Identity\\Mappings\\IdentityMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T11:01:53.147Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 16,
               "Title": "UserProfile.cs",
               "DocumentMoniker": "D:\\GL3\\social media app\\Application\\Mapper\\UserMapper\\UserProfile.cs",
               "RelativeDocumentMoniker": "Application\\Mapper\\UserMapper\\UserProfile.cs",
               "ToolTip": "D:\\GL3\\social media app\\Application\\Mapper\\UserMapper\\UserProfile.cs",
               "RelativeToolTip": "Application\\Mapper\\UserMapper\\UserProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T07:52:53.272Z"
+              "WhenOpened": "2025-01-22T07:52:53.272Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ApplicationDependencies.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\Extentions\\ApplicationDependencies.cs",
-              "RelativeDocumentMoniker": "Application\\Extentions\\ApplicationDependencies.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Application\\Extentions\\ApplicationDependencies.cs",
-              "RelativeToolTip": "Application\\Extentions\\ApplicationDependencies.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAswBoAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "IStoryCommentRepository.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Domain\\RepositoryInterfaces\\IStoryCommentRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\RepositoryInterfaces\\IStoryCommentRepository.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Domain\\RepositoryInterfaces\\IStoryCommentRepository.cs",
+              "RelativeToolTip": "Domain\\RepositoryInterfaces\\IStoryCommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T07:29:24.073Z"
+              "WhenOpened": "2025-01-29T15:12:10.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "GetUsersResponse.cs",
-              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\DTOs\\DTOsResponses\\GetUsersResponse.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\DTOsResponses\\GetUsersResponse.cs",
-              "ToolTip": "D:\\GL3\\social media app\\Application\\DTOs\\DTOsResponses\\GetUsersResponse.cs",
-              "RelativeToolTip": "Application\\DTOs\\DTOsResponses\\GetUsersResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T07:35:34.106Z"
+              "DocumentIndex": 19,
+              "Title": "web.Api.csproj",
+              "DocumentMoniker": "D:\\GL3\\social media app\\web.Api\\web.Api.csproj",
+              "RelativeDocumentMoniker": "web.Api\\web.Api.csproj",
+              "ToolTip": "D:\\GL3\\social media app\\web.Api\\web.Api.csproj",
+              "RelativeToolTip": "web.Api\\web.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-21T18:38:53.559Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 20,
               "Title": "Core.Application.csproj",
               "DocumentMoniker": "D:\\GL3\\social media app\\Application\\Core.Application.csproj",
               "RelativeDocumentMoniker": "Application\\Core.Application.csproj",
@@ -683,7 +478,303 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StoryService.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\Services\\StoryService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\StoryService.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Application\\Services\\StoryService.cs",
+              "RelativeToolTip": "Application\\Services\\StoryService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwCgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:35:47.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dbo.Stories.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ScolarProject/True/SqlTable/dbo.Stories.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ScolarProject/True/SqlTable/dbo.Stories.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-28T20:01:27.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250128132304_addStoryTable.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Infrastructure\\Migrations\\20250128132304_addStoryTable.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250128132304_addStoryTable.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Infrastructure\\Migrations\\20250128132304_addStoryTable.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250128132304_addStoryTable.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T13:23:05.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FriendshipStatus.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Domain\\enums\\FriendshipStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\enums\\FriendshipStatus.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Domain\\enums\\FriendshipStatus.cs",
+              "RelativeToolTip": "Domain\\enums\\FriendshipStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:15:38.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:38:28.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wBwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:14:08.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\UserService.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:37:37.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PrivacySettings.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Domain\\Entities\\PrivacySettings.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\PrivacySettings.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Domain\\Entities\\PrivacySettings.cs",
+              "RelativeToolTip": "Domain\\Entities\\PrivacySettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:49:26.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PrivacyLevel.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Domain\\enums\\PrivacyLevel.cs",
+              "RelativeDocumentMoniker": "Domain\\enums\\PrivacyLevel.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Domain\\enums\\PrivacyLevel.cs",
+              "RelativeToolTip": "Domain\\enums\\PrivacyLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:45:21.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PrivacySettingsController.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\web.Api\\Controllers\\PrivacySettingsController.cs",
+              "RelativeDocumentMoniker": "web.Api\\Controllers\\PrivacySettingsController.cs",
+              "ToolTip": "D:\\GL3\\social media app\\web.Api\\Controllers\\PrivacySettingsController.cs",
+              "RelativeToolTip": "web.Api\\Controllers\\PrivacySettingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T21:00:50.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T20:11:52.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PrivacySettingsRepository.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Infrastructure\\Repositories\\PrivacySettingsRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\PrivacySettingsRepository.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Infrastructure\\Repositories\\PrivacySettingsRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\PrivacySettingsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:52:59.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IPrivacySettingsService.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\Interfaces\\IPrivacySettingsService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IPrivacySettingsService.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Application\\Interfaces\\IPrivacySettingsService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IPrivacySettingsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:43:25.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250127201640_addPrivacySettings.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Infrastructure\\Migrations\\20250127201640_addPrivacySettings.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250127201640_addPrivacySettings.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Infrastructure\\Migrations\\20250127201640_addPrivacySettings.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250127201640_addPrivacySettings.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:16:41.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250127195027_addPrivacySettings.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Infrastructure\\Migrations\\20250127195027_addPrivacySettings.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250127195027_addPrivacySettings.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Infrastructure\\Migrations\\20250127195027_addPrivacySettings.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250127195027_addPrivacySettings.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:50:27.486Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 34,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\web.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "web.Api\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\GL3\\social media app\\web.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "web.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAIBZwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T15:10:40.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Domain\\RepositoryInterfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\RepositoryInterfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Domain\\RepositoryInterfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Domain\\RepositoryInterfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T20:12:16.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Core.Domain.csproj",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Domain\\Core.Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Core.Domain.csproj",
+              "ToolTip": "D:\\GL3\\social media app\\Domain\\Core.Domain.csproj",
+              "RelativeToolTip": "Domain\\Core.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-26T19:32:15.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250127143913_firstMigration.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Infrastructure\\Migrations\\20250127143913_firstMigration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250127143913_firstMigration.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Infrastructure\\Migrations\\20250127143913_firstMigration.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250127143913_firstMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T14:39:13.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\Interfaces\\Identity\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Identity\\IAuthService.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Application\\Interfaces\\Identity\\IAuthService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Identity\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAEBVwA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:43:07.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AuthentificationService.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\Services\\Identity\\AuthentificationService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Identity\\AuthentificationService.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Application\\Services\\Identity\\AuthentificationService.cs",
+              "RelativeToolTip": "Application\\Services\\Identity\\AuthentificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:51:30.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Infrastructure\\Identity\\Model\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Model\\ApplicationUser.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Infrastructure\\Identity\\Model\\ApplicationUser.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\Model\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:57:00.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IdentityMapping.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Infrastructure\\Identity\\Mappings\\IdentityMapping.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Mappings\\IdentityMapping.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Infrastructure\\Identity\\Mappings\\IdentityMapping.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\Mappings\\IdentityMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:01:53.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ApplicationDependencies.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\Extentions\\ApplicationDependencies.cs",
+              "RelativeDocumentMoniker": "Application\\Extentions\\ApplicationDependencies.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Application\\Extentions\\ApplicationDependencies.cs",
+              "RelativeToolTip": "Application\\Extentions\\ApplicationDependencies.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T07:29:24.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GetUsersResponse.cs",
+              "DocumentMoniker": "D:\\GL3\\social media app\\Application\\DTOs\\DTOsResponses\\GetUsersResponse.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\DTOsResponses\\GetUsersResponse.cs",
+              "ToolTip": "D:\\GL3\\social media app\\Application\\DTOs\\DTOsResponses\\GetUsersResponse.cs",
+              "RelativeToolTip": "Application\\DTOs\\DTOsResponses\\GetUsersResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T07:35:34.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
               "Title": "InfrastructureDependencies.cs",
               "DocumentMoniker": "D:\\GL3\\social media app\\Infrastructure\\Extentions\\InfrastructureDependencies.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Extentions\\InfrastructureDependencies.cs",
@@ -695,7 +786,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 43,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\GL3\\social media app\\web.Api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "web.Api\\appsettings.Development.json",
@@ -704,10 +795,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-01-21T18:31:29.258Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

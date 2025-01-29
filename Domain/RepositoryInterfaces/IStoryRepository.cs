@@ -9,9 +9,10 @@ namespace Core.Domain.RepositoryInterfaces
 {
     public interface IStoryRepository
     {
-        void AddStory(Story story);
-        void DeleteStory(Story story);
-        Story GetStory(Guid storyId);
-        IEnumerable<Story> GetActiveStories(Guid userId);
+        Task<Story> GetByIdAsync(Guid id);
+        Task<IEnumerable<Story>> GetActiveStoriesByUserIdAsync(Guid userId);
+        Task AddAsync(Story story);
+        Task UpdateAsync(Story story);
+        Task DeleteAsync(Guid id);
     }
 }

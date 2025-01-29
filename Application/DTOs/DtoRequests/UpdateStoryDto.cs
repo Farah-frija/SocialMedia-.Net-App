@@ -5,11 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Core.Application.DTOs
+namespace Core.Application.DTOs.DtoRequests
 {
     public class UpdateStoryDto
     {
-        public Guid Id { get; set; }
         public string? Content { get; set; }
         public IFormFile? Image { get; set; }
     }

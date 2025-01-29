@@ -575,3 +575,6 @@ D:\GL3\social media app\web.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Micro
 D:\GL3\social media app\web.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 D:\GL3\social media app\web.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 D:\GL3\social media app\web.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\GL3\social media app\web.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\GL3\social media app\web.Api\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\GL3\social media app\web.Api\bin\Debug\net8.0\web.Api.staticwebassets.runtime.json

@@ -17,6 +17,8 @@ namespace Infrastructure.Data
         public DbSet<User> Users { get; set; }
         public DbSet<PrivacySettings> PrivacySettings { get; set; }
         public DbSet<Story> Stories { get; set; }
+        public DbSet<StoryComment> StoryComments { get; set; }
+        public DbSet<StoryLike> StoryLikes { get; set; }
         
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) { }
 
@@ -36,6 +38,32 @@ namespace Infrastructure.Data
              .WithMany(u => u.Stories)
              .HasForeignKey(s => s.UserId)
             .OnDelete(DeleteBehavior.Cascade);
+            modelBuilder.Entity<StoryComment>()
+            .HasOne(c => c.User)
+            .WithMany() // No navigation property in User
+            .HasForeignKey(c => c.UserId)
+            .OnDelete(DeleteBehavior.NoAction);
+
+            // Prevent cascading deletes for StoryComments → Stories
+            modelBuilder.Entity<StoryComment>()
+                .HasOne(c => c.Story)
+                .WithMany(s => s.Comments)
+                .HasForeignKey(c => c.StoryId)
+                .OnDelete(DeleteBehavior.Cascade); // Only allow cascade on one path
+            modelBuilder.Entity<StoryLike>()
+            .HasKey(sl => sl.Id);
+
+            modelBuilder.Entity<StoryLike>()
+                .HasOne(sl => sl.Story)
+                .WithMany(s => s.Likes)
+                .HasForeignKey(sl => sl.StoryId)
+                .OnDelete(DeleteBehavior.Cascade);
+
+            modelBuilder.Entity<StoryLike>()
+                .HasOne(sl => sl.User)
+                .WithMany()
+                .HasForeignKey(sl => sl.UserId)
+                .OnDelete(DeleteBehavior.NoAction);
         }
         
     }

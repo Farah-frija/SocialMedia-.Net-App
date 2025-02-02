@@ -1,46 +1,34 @@
 ﻿using Core.Domain.Entities;
+
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Infrastructure.Data
+namespace Infrastructure.Context
 {
-    public class ApplicationDbContext : DbContext
+    public class ApplicationDbContext : IdentityDbContext<User>
     {
-        public ApplicationDbContext()
-        {
-            
-        }
-        public DbSet<Post> Posts { get; set; }
-        public DbSet<Comment> Comments { get; set; }
-        public DbSet<PostPhoto> PostPhotos { get; set; } // Register PostPhoto
-
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) { }
 
+        // DbSet for FriendRequest
+        public DbSet<Follow> Follows { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            base.OnModelCreating(modelBuilder); // Important pour Identity!
-            modelBuilder.Entity<Comment>()
-       .HasOne(c => c.User)
-       .WithMany()
-       .HasForeignKey(c => c.UserId)
-       .OnDelete(DeleteBehavior.Restrict); // Change to Restrict to avoid cascading deletes
+            base.OnModelCreating(modelBuilder); // Important for Identity!
 
-            modelBuilder.Entity<Comment>()
-                .HasOne(c => c.Post)
-                .WithMany(p => p.Comments)
-                .HasForeignKey(c => c.PostId)
-                .OnDelete(DeleteBehavior.Cascade); // Keep cascading deletes for Post
+            // Configure relationships for FriendRequest
+            modelBuilder.Entity<Follow>()
+         .HasOne(f => f.Sender)
+         .WithMany(u => u.Followings)  // A single list, both sent and received follows
+         .HasForeignKey(f => f.SenderId)
+         .IsRequired();
 
-            modelBuilder.Entity<PostPhoto>()
-          .HasOne(pp => pp.Post)
-          .WithMany(p => p.Photos)
-          .HasForeignKey(pp => pp.PostId);
+            modelBuilder.Entity<Follow>()
+                .HasOne(f => f.Receiver)
+                .WithMany(u => u.Followers)  // The same list here, but refers to received follows
+                .HasForeignKey(f => f.ReceiverId)
+                .IsRequired();
         }
-        
     }
 }
+

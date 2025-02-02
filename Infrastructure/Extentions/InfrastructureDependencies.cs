@@ -1,11 +1,4 @@
-﻿using Core.Application.Interfaces.Follows;
-using Core.Application.Interfaces.Identity;
-using Core.Domain.Entities;
-using Core.Domain.RepositoryInterfaces.Follows;
-using Infrastructure.Context;
-
-using Infrastructure.Identity.Services;
-using Microsoft.AspNetCore.Identity;
+﻿using Infrastructure.Data;
 using Microsoft.AspNetCore.Mvc.ModelBinding.Binders;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -20,48 +13,20 @@ namespace Infrastructure.Extentions
 {
     public static class InfrastructureDependencies
     {
-
         public static void AddInfrastructureIdentityServices(this IServiceCollection services)
         {
-            services.AddIdentity<User, IdentityRole>(options =>
-            {
-                options.SignIn.RequireConfirmedAccount = true;
-            })
-            .AddEntityFrameworkStores<ApplicationDbContext>()
-            .AddDefaultTokenProviders(); // Adds token providers for password recovery, etc.
-            services.AddScoped<IAuthService, AuthService>();
-
-
-            services.AddAuthentication().AddFacebook(facebookOptions =>
-            {
-                facebookOptions.AppId = "2018274258585644"; // Remplacez par l'App ID Facebook
-                facebookOptions.AppSecret = "771fb742fbd1716449ef990fbdd75a20"; // Remplacez par l'App Secret Facebook
-            });
-           
-
-
-
+            //services.AddScoped<IAuthService, AuthService>();
+            //services.AddScoped<IUserService, UserService>();
         }
-        public static void AddInfrastructureRepoInjections(this IServiceCollection services)
-        {
-            services.AddScoped<IFollowRepo, FollowRepo>();
-
-
-        }
-
-
-
 
 
         public static void AddAppDbContext(this IServiceCollection services, IConfiguration configuration)
         {
 
+  
             services.AddDbContext<ApplicationDbContext>(options =>
-          options.UseNpgsql(
-              configuration.GetConnectionString("WebApplication1Context")
-          )
-      );
+options.UseSqlServer(configuration.GetConnectionString("WebApplication1Context"
+)));
         }
-
     }
 }

@@ -1,5 +1,69 @@
 [
   {
+    "ContainingType": "Web.Api.Controllers.ChatRoomController",
+    "Method": "AddUserToChatRoom",
+    "RelativePath": "api/ChatRoom/AddUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "addUserDto",
+        "Type": "Core.Application.DTOs.DTOsRequests.ChatRoomRequests.AddUserToChatRoomDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Api.Controllers.ChatRoomController",
+    "Method": "CreateChatRoom",
+    "RelativePath": "api/ChatRoom/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createChatRoomDto",
+        "Type": "Core.Application.DTOs.DTOsRequests.ChatRoomRequests.CreateChatRoomDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Api.Controllers.ChatRoomController",
+    "Method": "RemoveUserFromChatRoom",
+    "RelativePath": "api/ChatRoom/RemoveUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "removeUserDto",
+        "Type": "Core.Application.DTOs.DTOsRequests.ChatRoomRequests.RemoveUserFromChatRoomDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Api.Controllers.ChatRoomController",
+    "Method": "GetUserChatRooms",
+    "RelativePath": "api/ChatRoom/UserChatRooms/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Web.Api.Controllers.FollowController",
     "Method": "AcceptFollowRequest",
     "RelativePath": "api/Follow/AcceptFollowRequest/{followId}",
@@ -105,6 +169,38 @@
     "Parameters": [
       {
         "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MessageController",
+    "Method": "SendMessage",
+    "RelativePath": "api/messages",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sendMessageDto",
+        "Type": "Core.Application.DTOs.DTOsRequests.MessageRequests.SendMessageDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MessageController",
+    "Method": "GetChatRoomMessages",
+    "RelativePath": "api/messages/chatRoom/{chatRoomId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "chatRoomId",
         "Type": "System.String",
         "IsRequired": true
       }

@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using Core.Application.DTOs.DTOsResponses;
+using Core.Application.DTOs.DTOsResponses.IdentityResponse;
 using Core.Application.Interfaces.Identity;
 using Core.Domain.Entities;
 using Infrastructure.Identity.Configurations;

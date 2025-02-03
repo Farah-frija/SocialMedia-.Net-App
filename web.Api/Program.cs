@@ -1,5 +1,6 @@
 
 using Core.Application.Extentions;
+using Core.Application.Mapper.ChatRoomMapper;
 using Core.Application.Mapper.FollowMapper;
 using Core.Application.Mapper.UserMapper;
 using Infrastructure.Extentions;
@@ -21,7 +22,9 @@ builder.Services.AddInfrastructureIdentityServices();
 builder.Services.AddAutoMapper(
     typeof(IdentityMapping).Assembly,
     typeof(UserProfile).Assembly,
-    typeof(FollowProfile).Assembly
+    typeof(FollowProfile).Assembly,
+    typeof(ChatRoomProfile).Assembly
+    ,typeof(MessageMappingProfile).Assembly
 );
 var jwtSection = builder.Configuration.GetSection("JWTBearerTokenSettings");
 builder.Services.Configure<JWTBearerTokenSetting>(jwtSection); // Ajoute les paramètres JWT au conteneur d'injection de dépendances

@@ -11,7 +11,8 @@ namespace Infrastructure.Context
 
         // DbSet for FriendRequest
         public DbSet<Follow> Follows { get; set; }
-
+        public DbSet<Message> Messages { get; set; }
+        public DbSet<ChatRoom> ChatRooms { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder); // Important for Identity!

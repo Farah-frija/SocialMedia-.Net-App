@@ -1,10 +1,13 @@
 ﻿using Core.Application.Interfaces.Follows;
 using Core.Application.Interfaces.Identity;
 using Core.Domain.Entities;
+using Core.Domain.RepositoryInterfaces.Chats;
 using Core.Domain.RepositoryInterfaces.Follows;
 using Infrastructure.Context;
 
 using Infrastructure.Identity.Services;
+
+using Infrastructure.Repositories.Chat;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc.ModelBinding.Binders;
 using Microsoft.EntityFrameworkCore;
@@ -45,6 +48,8 @@ namespace Infrastructure.Extentions
         public static void AddInfrastructureRepoInjections(this IServiceCollection services)
         {
             services.AddScoped<IFollowRepo, FollowRepo>();
+            services.AddScoped<IChatRoomRepository, ChatRoomRepository>();
+            services.AddScoped<ImessageRepo, MessageRepository>();
 
 
         }

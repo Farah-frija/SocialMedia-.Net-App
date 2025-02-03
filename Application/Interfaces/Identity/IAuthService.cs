@@ -1,4 +1,4 @@
-﻿using Core.Application.DTOs.DTOsResponses;
+﻿using Core.Application.DTOs.DTOsResponses.IdentityResponse;
 using Core.Domain.Entities;
 using Microsoft.AspNetCore.Identity;
 using System;

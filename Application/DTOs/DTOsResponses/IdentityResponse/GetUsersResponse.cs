@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Core.Application.DTOs.DTOsResponses
+namespace Core.Application.DTOs.DTOsResponses.IdentityResponse
 {
     public class GetUsersResponse
     {  // Model but without validators , with less feilds 

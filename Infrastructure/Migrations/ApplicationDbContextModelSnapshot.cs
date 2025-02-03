@@ -22,6 +22,42 @@ namespace Infrastructure.Migrations
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
 
+            modelBuilder.Entity("ChatRoomUser", b =>
+                {
+                    b.Property<string>("MambersId")
+                        .HasColumnType("text");
+
+                    b.Property<string>("chatroomsId")
+                        .HasColumnType("text");
+
+                    b.HasKey("MambersId", "chatroomsId");
+
+                    b.HasIndex("chatroomsId");
+
+                    b.ToTable("ChatRoomUser");
+                });
+
+            modelBuilder.Entity("Core.Domain.Entities.ChatRoom", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasColumnType("text");
+
+                    b.Property<string>("CreatedBy")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<bool>("isGroup")
+                        .HasColumnType("boolean");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("ChatRooms");
+                });
+
             modelBuilder.Entity("Core.Domain.Entities.Follow", b =>
                 {
                     b.Property<string>("Id")
@@ -48,6 +84,35 @@ namespace Infrastructure.Migrations
                     b.HasIndex("SenderId");
 
                     b.ToTable("Follows");
+                });
+
+            modelBuilder.Entity("Core.Domain.Entities.Message", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasColumnType("text");
+
+                    b.Property<string>("ChatRoomId")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("Content")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<string>("SenderId")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ChatRoomId");
+
+                    b.HasIndex("SenderId");
+
+                    b.ToTable("Messages");
                 });
 
             modelBuilder.Entity("Core.Domain.Entities.User", b =>
@@ -252,6 +317,21 @@ namespace Infrastructure.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
+            modelBuilder.Entity("ChatRoomUser", b =>
+                {
+                    b.HasOne("Core.Domain.Entities.User", null)
+                        .WithMany()
+                        .HasForeignKey("MambersId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Core.Domain.Entities.ChatRoom", null)
+                        .WithMany()
+                        .HasForeignKey("chatroomsId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
             modelBuilder.Entity("Core.Domain.Entities.Follow", b =>
                 {
                     b.HasOne("Core.Domain.Entities.User", "Receiver")
@@ -267,6 +347,25 @@ namespace Infrastructure.Migrations
                         .IsRequired();
 
                     b.Navigation("Receiver");
+
+                    b.Navigation("Sender");
+                });
+
+            modelBuilder.Entity("Core.Domain.Entities.Message", b =>
+                {
+                    b.HasOne("Core.Domain.Entities.ChatRoom", "ChatRoom")
+                        .WithMany("Messages")
+                        .HasForeignKey("ChatRoomId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Core.Domain.Entities.User", "Sender")
+                        .WithMany("SentMessages")
+                        .HasForeignKey("SenderId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("ChatRoom");
 
                     b.Navigation("Sender");
                 });
@@ -322,11 +421,18 @@ namespace Infrastructure.Migrations
                         .IsRequired();
                 });
 
+            modelBuilder.Entity("Core.Domain.Entities.ChatRoom", b =>
+                {
+                    b.Navigation("Messages");
+                });
+
             modelBuilder.Entity("Core.Domain.Entities.User", b =>
                 {
                     b.Navigation("Followers");
 
                     b.Navigation("Followings");
+
+                    b.Navigation("SentMessages");
                 });
 #pragma warning restore 612, 618
         }

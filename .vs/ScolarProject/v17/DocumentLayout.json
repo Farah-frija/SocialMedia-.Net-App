@@ -3,72 +3,132 @@
   "WorkspaceRootPath": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\web.api\\controllers\\followcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|solutionrelative:web.api\\controllers\\followcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\application\\dtos\\dtosrequests\\followresponse\\listingfollowers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\dtos\\dtosrequests\\followresponse\\listingfollowers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\application\\mapper\\followmapper\\followprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\mapper\\followmapper\\followprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\application\\services\\follow\\followservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\services\\follow\\followservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\application\\interfaces\\follow\\ifollowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\interfaces\\follow\\ifollowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\infrastructure\\repositories\\follow\\followrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\follow\\followrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\domain\\repositoryinterfaces\\follows\\irepositoryfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\repositoryinterfaces\\follows\\irepositoryfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\application\\mapper\\usermapper\\querrymapping\\querryentitymapping\\loginmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\mapper\\usermapper\\querrymapping\\querryentitymapping\\loginmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\application\\extentions\\applicationdependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\extentions\\applicationdependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|solutionrelative:web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\infrastructure\\extentions\\infrastructuredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\extentions\\infrastructuredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\infrastructure\\identity\\configurations\\tokenconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\configurations\\tokenconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\application\\dtos\\dtosrequests\\followrequests\\getfollowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\dtos\\dtosrequests\\followrequests\\getfollowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\infrastructure\\security\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\security\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\domain\\entities\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\entities\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\web.api\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|solutionrelative:web.api\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\domain\\repositoryinterfaces\\chats\\ichatroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\repositoryinterfaces\\chats\\ichatroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\web.api\\controllers\\chatroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|solutionrelative:web.api\\controllers\\chatroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\domain\\repositoryinterfaces\\chats\\imessagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\repositoryinterfaces\\chats\\imessagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\infrastructure\\repositories\\chat\\messagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\chat\\messagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\domain\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\application\\dtos\\dtosresponses\\messageresponse\\listofmessagesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\dtos\\dtosresponses\\messageresponse\\listofmessagesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\web.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|solutionrelative:web.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\web.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|solutionrelative:web.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\infrastructure\\identity\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\web.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|solutionrelative:web.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\domain\\enums\\followrequeststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\enums\\followrequeststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\application\\dtos\\dtosrequests\\messagerequests\\sendmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\dtos\\dtosrequests\\messagerequests\\sendmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\infrastructure\\repositories\\follow\\followrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\follow\\followrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\application\\services\\chats\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\services\\chats\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\infrastructure\\extentions\\infrastructuredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\extentions\\infrastructuredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\application\\interfaces\\chat\\imessageserice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\interfaces\\chat\\imessageserice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\infrastructure\\repositories\\chat\\chatroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\chat\\chatroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\application\\mapper\\messagemapper\\messagemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\mapper\\messagemapper\\messagemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\application\\extentions\\applicationdependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\extentions\\applicationdependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\application\\dtos\\dtosresponses\\profileresponse\\userasicondto\\userasiconinthemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\dtos\\dtosresponses\\profileresponse\\userasicondto\\userasiconinthemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\application\\dtos\\dtosrequests\\chatroomrequests\\createchatroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\dtos\\dtosrequests\\chatroomrequests\\createchatroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\infrastructure\\context\\hubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF102C-68C9-45C9-8352-DB4CF145E79B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\hubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\application\\services\\chats\\chatroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\services\\chats\\chatroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\application\\mapper\\chatroommapper\\chatroomprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\mapper\\chatroommapper\\chatroomprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\application\\interfaces\\chat\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2FF24B-4E0B-4CE7-BCA7-CA75C2C994AC}|Application\\Core.Application.csproj|solutionrelative:application\\interfaces\\chat\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\domain\\entities\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CEDC47-7A8B-4150-9274-BCA45B233C99}|Domain\\Core.Domain.csproj|solutionrelative:domain\\entities\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|c:\\users\\farah\\onedrive\\documents\\gl3sem1\\dotnet\\scolarproject\\web.api\\controllers\\followcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF0C2D3-E7F9-4BFC-9725-27328C3556D3}|web.Api\\web.Api.csproj|solutionrelative:web.api\\controllers\\followcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +138,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,225 +150,408 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "FollowRequestStatus.cs",
-              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\Enums\\FollowRequestStatus.cs",
-              "RelativeDocumentMoniker": "Domain\\Enums\\FollowRequestStatus.cs",
-              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\Enums\\FollowRequestStatus.cs",
-              "RelativeToolTip": "Domain\\Enums\\FollowRequestStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Encryption.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Security\\Encryption.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Security\\Encryption.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Security\\Encryption.cs",
+              "RelativeToolTip": "Infrastructure\\Security\\Encryption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T08:22:40.026Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-02-03T19:36:31.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "listingFollowers.cs",
-              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\DTOs\\DTOsRequests\\FollowResponse\\listingFollowers.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\DTOsRequests\\FollowResponse\\listingFollowers.cs",
-              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\DTOs\\DTOsRequests\\FollowResponse\\listingFollowers.cs",
-              "RelativeToolTip": "Application\\DTOs\\DTOsRequests\\FollowResponse\\listingFollowers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Title": "TokenConfig.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Identity\\Configurations\\TokenConfig.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Configurations\\TokenConfig.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Identity\\Configurations\\TokenConfig.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\Configurations\\TokenConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T18:08:53.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoginMapping.cs",
-              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Mapper\\UserMapper\\QuerryMapping\\QuerryEntityMapping\\LoginMapping.cs",
-              "RelativeDocumentMoniker": "Application\\Mapper\\UserMapper\\QuerryMapping\\QuerryEntityMapping\\LoginMapping.cs",
-              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Mapper\\UserMapper\\QuerryMapping\\QuerryEntityMapping\\LoginMapping.cs",
-              "RelativeToolTip": "Application\\Mapper\\UserMapper\\QuerryMapping\\QuerryEntityMapping\\LoginMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T17:01:34.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FollowProfile.cs",
-              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Mapper\\FollowMapper\\FollowProfile.cs",
-              "RelativeDocumentMoniker": "Application\\Mapper\\FollowMapper\\FollowProfile.cs",
-              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Mapper\\FollowMapper\\FollowProfile.cs",
-              "RelativeToolTip": "Application\\Mapper\\FollowMapper\\FollowProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T17:00:37.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FollowRepo.cs",
-              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Repositories\\Follow\\FollowRepo.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Follow\\FollowRepo.cs",
-              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Repositories\\Follow\\FollowRepo.cs",
-              "RelativeToolTip": "Infrastructure\\Repositories\\Follow\\FollowRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T16:09:43.515Z",
+              "WhenOpened": "2025-02-03T19:34:38.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IrepositoryFollow.cs",
-              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\RepositoryInterfaces\\Follows\\IrepositoryFollow.cs",
-              "RelativeDocumentMoniker": "Domain\\RepositoryInterfaces\\Follows\\IrepositoryFollow.cs",
-              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\RepositoryInterfaces\\Follows\\IrepositoryFollow.cs",
-              "RelativeToolTip": "Domain\\RepositoryInterfaces\\Follows\\IrepositoryFollow.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Title": "MessageRepo.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Repositories\\Chat\\MessageRepo.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Chat\\MessageRepo.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Repositories\\Chat\\MessageRepo.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\Chat\\MessageRepo.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T16:04:57.488Z",
+              "WhenOpened": "2025-01-30T10:13:13.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImessageRepo.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\RepositoryInterfaces\\Chats\\ImessageRepo.cs",
+              "RelativeDocumentMoniker": "Domain\\RepositoryInterfaces\\Chats\\ImessageRepo.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\RepositoryInterfaces\\Chats\\ImessageRepo.cs",
+              "RelativeToolTip": "Domain\\RepositoryInterfaces\\Chats\\ImessageRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T09:58:09.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IFollowService.cs",
-              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Interfaces\\Follow\\IFollowService.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\Follow\\IFollowService.cs",
-              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Interfaces\\Follow\\IFollowService.cs",
-              "RelativeToolTip": "Application\\Interfaces\\Follow\\IFollowService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Title": "ChatRoomController.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\Controllers\\ChatRoomController.cs",
+              "RelativeDocumentMoniker": "web.Api\\Controllers\\ChatRoomController.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\Controllers\\ChatRoomController.cs",
+              "RelativeToolTip": "web.Api\\Controllers\\ChatRoomController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwE0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T15:39:38.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\Entities\\User.cs",
-              "RelativeToolTip": "Domain\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T16:22:06.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FollowController.cs",
-              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\Controllers\\FollowController.cs",
-              "RelativeDocumentMoniker": "web.Api\\Controllers\\FollowController.cs",
-              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\Controllers\\FollowController.cs",
-              "RelativeToolTip": "web.Api\\Controllers\\FollowController.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAowHYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T16:55:29.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationDependencies.cs",
-              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Extentions\\ApplicationDependencies.cs",
-              "RelativeDocumentMoniker": "Application\\Extentions\\ApplicationDependencies.cs",
-              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Extentions\\ApplicationDependencies.cs",
-              "RelativeToolTip": "Application\\Extentions\\ApplicationDependencies.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T17:17:59.563Z",
+              "WhenOpened": "2025-01-29T21:04:08.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "FollowService.cs",
-              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Services\\Follow\\FollowService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Follow\\FollowService.cs",
-              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Services\\Follow\\FollowService.cs",
-              "RelativeToolTip": "Application\\Services\\Follow\\FollowService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Title": "IChatRoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\RepositoryInterfaces\\Chats\\IChatRoomRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\RepositoryInterfaces\\Chats\\IChatRoomRepository.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\RepositoryInterfaces\\Chats\\IChatRoomRepository.cs",
+              "RelativeToolTip": "Domain\\RepositoryInterfaces\\Chats\\IChatRoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T16:02:05.884Z",
+              "WhenOpened": "2025-01-30T09:14:41.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "web.Api\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "web.Api\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAwCgAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "web.Api\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "web.Api\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T16:45:44.389Z",
+              "WhenOpened": "2025-01-30T09:59:24.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GetFollowDto.cs",
-              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\DTOs\\DTOsRequests\\FollowRequests\\GetFollowDto.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\DTOsRequests\\FollowRequests\\GetFollowDto.cs",
-              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\DTOs\\DTOsRequests\\FollowRequests\\GetFollowDto.cs",
-              "RelativeToolTip": "Application\\DTOs\\DTOsRequests\\FollowRequests\\GetFollowDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T16:59:08.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\Program.cs",
               "RelativeDocumentMoniker": "web.Api\\Program.cs",
               "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\Program.cs",
               "RelativeToolTip": "web.Api\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAADcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T17:02:41.225Z",
+              "WhenOpened": "2025-01-30T11:16:03.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
+              "Title": "ListOfMessagesDto.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\DTOs\\DTOsResponses\\MessageResponse\\ListOfMessagesDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\DTOsResponses\\MessageResponse\\ListOfMessagesDto.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\DTOs\\DTOsResponses\\MessageResponse\\ListOfMessagesDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\DTOsResponses\\MessageResponse\\ListOfMessagesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:57:31.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Message.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\Entities\\Message.cs",
+              "RelativeToolTip": "Domain\\Entities\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T09:50:16.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "web.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\appsettings.Development.json",
+              "RelativeToolTip": "web.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T19:46:29.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "InfrastructureDependencies.cs",
               "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Extentions\\InfrastructureDependencies.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Extentions\\InfrastructureDependencies.cs",
               "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Extentions\\InfrastructureDependencies.cs",
               "RelativeToolTip": "Infrastructure\\Extentions\\InfrastructureDependencies.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCwAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T17:18:35.793Z",
+              "WhenOpened": "2025-01-30T11:17:27.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Context\\ApplicationDBContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Context\\ApplicationDBContext.cs",
-              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Context\\ApplicationDBContext.cs",
-              "RelativeToolTip": "Infrastructure\\Context\\ApplicationDBContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "web.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\appsettings.json",
+              "RelativeToolTip": "web.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T18:56:28.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Identity\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Identity\\Services\\AuthService.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\Services\\AuthService.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T16:17:13.479Z",
+              "WhenOpened": "2025-02-03T19:35:13.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FollowRepo.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Repositories\\Follow\\FollowRepo.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Follow\\FollowRepo.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Repositories\\Follow\\FollowRepo.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\Follow\\FollowRepo.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T09:50:03.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Follow.cs",
-              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\Entities\\Follow.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Follow.cs",
-              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\Entities\\Follow.cs",
-              "RelativeToolTip": "Domain\\Entities\\Follow.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "web.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "web.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T16:12:31.487Z",
+              "WhenOpened": "2025-02-02T20:12:06.967Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Services\\Chats\\MessageService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Chats\\MessageService.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Services\\Chats\\MessageService.cs",
+              "RelativeToolTip": "Application\\Services\\Chats\\MessageService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T09:58:57.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SendMessageDto.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\DTOs\\DTOsRequests\\MessageRequests\\SendMessageDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\DTOsRequests\\MessageRequests\\SendMessageDto.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\DTOs\\DTOsRequests\\MessageRequests\\SendMessageDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\DTOsRequests\\MessageRequests\\SendMessageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:38:58.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChatRoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Repositories\\Chat\\ChatRoomRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Chat\\ChatRoomRepository.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Repositories\\Chat\\ChatRoomRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\Chat\\ChatRoomRepository.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAkwBIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T21:23:27.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IMessageSerice.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Interfaces\\Chat\\IMessageSerice.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Chat\\IMessageSerice.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Interfaces\\Chat\\IMessageSerice.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Chat\\IMessageSerice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T09:58:36.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MessageMapper.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Mapper\\MessageMapper\\MessageMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Mapper\\MessageMapper\\MessageMapper.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Mapper\\MessageMapper\\MessageMapper.cs",
+              "RelativeToolTip": "Application\\Mapper\\MessageMapper\\MessageMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T11:05:34.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserAsIconInTheMessage.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\DTOs\\DTOsResponses\\ProfileResponse\\UserAsIconDto\\UserAsIconInTheMessage.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\DTOsResponses\\ProfileResponse\\UserAsIconDto\\UserAsIconInTheMessage.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\DTOs\\DTOsResponses\\ProfileResponse\\UserAsIconDto\\UserAsIconInTheMessage.cs",
+              "RelativeToolTip": "Application\\DTOs\\DTOsResponses\\ProfileResponse\\UserAsIconDto\\UserAsIconInTheMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:52:52.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:54:06.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDependencies.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Extentions\\ApplicationDependencies.cs",
+              "RelativeDocumentMoniker": "Application\\Extentions\\ApplicationDependencies.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Extentions\\ApplicationDependencies.cs",
+              "RelativeToolTip": "Application\\Extentions\\ApplicationDependencies.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T21:12:48.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Context\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Context\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Context\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Infrastructure\\Context\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T09:32:54.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HubContext.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Context\\HubContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Context\\HubContext.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Context\\HubContext.cs",
+              "RelativeToolTip": "Infrastructure\\Context\\HubContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T09:32:53.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IChatService.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Interfaces\\Chat\\IChatService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Chat\\IChatService.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Interfaces\\Chat\\IChatService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Chat\\IChatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T09:15:52.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateChatRoomDto.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\DTOs\\DTOsRequests\\ChatRoomRequests\\CreateChatRoomDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\DTOsRequests\\ChatRoomRequests\\CreateChatRoomDto.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\DTOs\\DTOsRequests\\ChatRoomRequests\\CreateChatRoomDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\DTOsRequests\\ChatRoomRequests\\CreateChatRoomDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T21:26:24.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ChatRoom.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\Entities\\ChatRoom.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ChatRoom.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\Entities\\ChatRoom.cs",
+              "RelativeToolTip": "Domain\\Entities\\ChatRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T21:25:42.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ChatRoomProfile.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Mapper\\ChatRoomMapper\\ChatRoomProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Mapper\\ChatRoomMapper\\ChatRoomProfile.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Mapper\\ChatRoomMapper\\ChatRoomProfile.cs",
+              "RelativeToolTip": "Application\\Mapper\\ChatRoomMapper\\ChatRoomProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T21:18:19.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ChatRoomService.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Services\\Chats\\ChatRoomService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Chats\\ChatRoomService.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Services\\Chats\\ChatRoomService.cs",
+              "RelativeToolTip": "Application\\Services\\Chats\\ChatRoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T21:16:05.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FollowController.cs",
+              "DocumentMoniker": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\Controllers\\FollowController.cs",
+              "RelativeDocumentMoniker": "web.Api\\Controllers\\FollowController.cs",
+              "ToolTip": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\Controllers\\FollowController.cs",
+              "RelativeToolTip": "web.Api\\Controllers\\FollowController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T21:05:29.669Z"
             }
           ]
         }

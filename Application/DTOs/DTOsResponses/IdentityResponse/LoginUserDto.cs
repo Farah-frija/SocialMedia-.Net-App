@@ -6,12 +6,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Core.Application.DTOs.DTOsResponses
+namespace Core.Application.DTOs.DTOsResponses.IdentityResponse
 {
     public class LoginUserDtoResponse
     {
         public IdentityResult Result { get; set; }
-        public Object? token { get; set; }
-       
+        public object? token { get; set; }
+
     }
 }

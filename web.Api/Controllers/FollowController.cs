@@ -8,7 +8,7 @@ using AutoMapper;
 using Core.Application.Interfaces.Follows;
 using Core.Domain.Entities;
 using Core.Application.DTOs.DTOsRequests.FollowRequests;
-using Core.Application.DTOs.DTOsRequests.FollowResponse;
+using Core.Application.DTOs.DTOsResponses.FollowResponse;
 
 namespace Web.Api.Controllers
 {

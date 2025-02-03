@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using Core.Application.DTOs.DTOsRequests.FollowRequests;
-using Core.Application.DTOs.DTOsRequests.FollowResponse;
 using Core.Application.DTOs.DTOsRequests.Identity;
+using Core.Application.DTOs.DTOsResponses.FollowResponse;
 using Core.Domain.Entities;
 using System;
 using System.Collections.Generic;

@@ -24,6 +24,14 @@
 
 	  <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.0" />
 
+	  
+
+	  
+
+	  
+
+	  <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.3.0" />
+
 
 	  <PackageReference Include="Microsoft.AspNetCore.SignalR.Common" Version="9.0.1" />
 	  
@@ -38,17 +46,21 @@
 		  <PrivateAssets>all</PrivateAssets>
 	  </PackageReference>
 	  <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="9.0.0" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.0" />
 	  <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.0">
 		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 		  <PrivateAssets>all</PrivateAssets>
 	  </PackageReference>
 	 
 	  <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
-	  <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.0-rc.2" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Application\Core.Application.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Migrations\" />
   </ItemGroup>
 
 </Project>

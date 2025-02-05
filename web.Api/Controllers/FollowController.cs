@@ -9,11 +9,14 @@ using Core.Application.Interfaces.Follows;
 using Core.Domain.Entities;
 using Core.Application.DTOs.DTOsRequests.FollowRequests;
 using Core.Application.DTOs.DTOsResponses.FollowResponse;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Web.Api.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    [Authorize] // Requires authentication
+
     public class FollowController : ControllerBase
     {
         private readonly IFollowService _followService;

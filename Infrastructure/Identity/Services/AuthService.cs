@@ -113,13 +113,16 @@ namespace Infrastructure.Identity.Services
             {
                 Subject = new ClaimsIdentity(new Claim[]
                 {
-                    new Claim(ClaimTypes.Name, user.UserName),
-                    new Claim(ClaimTypes.Email, user.Email)
+            new Claim(JwtRegisteredClaimNames.Sub, user.Id.ToString()), // User ID
+            new Claim(JwtRegisteredClaimNames.UniqueName, user.UserName), // Username
+            new Claim(JwtRegisteredClaimNames.Email, user.Email), // Email
+            new Claim(JwtRegisteredClaimNames.Aud, jwtBearerTokenSettings.Audience), // Audience claim
+            new Claim(JwtRegisteredClaimNames.Iss, jwtBearerTokenSettings.Issuer) // Issuer claim
                 }),
                 Expires = DateTime.UtcNow.AddSeconds(jwtBearerTokenSettings.ExpireTimeInSeconds),
                 SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature),
-                Audience = jwtBearerTokenSettings.Audience,
-                Issuer = jwtBearerTokenSettings.Issuer
+                Audience = jwtBearerTokenSettings.Audience, // Set Audience property
+                Issuer = jwtBearerTokenSettings.Issuer // Set Issuer property
             };
 
             var token = tokenHandler.CreateToken(tokenDescriptor);

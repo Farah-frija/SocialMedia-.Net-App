@@ -10,9 +10,12 @@ using Core.Application.DTOs.DTOsRequests.MessageRequests;
 using Core.Application.Interfaces.Chat;
 using Core.Application.DTOs.DTOsResponses.MessageResponse;
 using Core.Application.DTOs.DTOsResponses.ProfileResponse.UserAsIconDto;
+using Microsoft.AspNetCore.Authorization;
 
 [Route("api/messages")]
 [ApiController]
+[Authorize] // Requires authentication
+
 public class MessageController : ControllerBase
 {
     private readonly IMessageSerice _messageService;

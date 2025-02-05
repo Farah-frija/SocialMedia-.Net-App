@@ -62,7 +62,7 @@ namespace Infrastructure.Extentions
         {
 
             services.AddDbContext<ApplicationDbContext>(options =>
-          options.UseNpgsql(
+          options.UseSqlServer(
               configuration.GetConnectionString("WebApplication1Context")
           )
       );

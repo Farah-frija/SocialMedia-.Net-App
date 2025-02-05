@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\web.Api.csproj": {}
+    "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\web.Api\\web.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Core.Application.csproj": {
+    "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\Core.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Core.Application.csproj",
+        "projectUniqueName": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\Core.Application.csproj",
         "projectName": "Core.Application",
-        "projectPath": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Core.Application.csproj",
-        "packagesPath": "C:\\Users\\farah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\obj\\",
+        "projectPath": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\Core.Application.csproj",
+        "packagesPath": "C:\\Users\\RimaZ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\farah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RimaZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\Core.Domain.csproj": {
-                "projectPath": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\Core.Domain.csproj"
+              "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Domain\\Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Domain\\Core.Domain.csproj"
               }
             }
           }
@@ -54,6 +54,14 @@
               "target": "Package",
               "version": "[12.0.0, )"
             },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
               "version": "[7.0.3, )"
@@ -75,21 +83,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\Core.Domain.csproj": {
+    "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Domain\\Core.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\Core.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Domain\\Core.Domain.csproj",
         "projectName": "Core.Domain",
-        "projectPath": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\Core.Domain.csproj",
-        "packagesPath": "C:\\Users\\farah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Domain\\Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\RimaZ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\farah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RimaZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -121,9 +129,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             },
             "Microsoft.Extensions.Identity.Core": {
               "target": "Package",
@@ -146,21 +162,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\farah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\RimaZ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\farah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RimaZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -175,8 +191,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Core.Application.csproj": {
-                "projectPath": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Application\\Core.Application.csproj"
+              "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\Core.Application.csproj": {
+                "projectPath": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Application\\Core.Application.csproj"
               }
             }
           }
@@ -204,6 +220,10 @@
               "target": "Package",
               "version": "[8.0.0, )"
             },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
             "Microsoft.AspNetCore.SignalR.Common": {
               "target": "Package",
               "version": "[9.0.1, )"
@@ -222,6 +242,10 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -231,10 +255,6 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[8.0.7, )"
-            },
-            "Npgsql.EntityFrameworkCore.PostgreSQL": {
-              "target": "Package",
-              "version": "[9.0.0-rc.2, )"
             }
           },
           "imports": [
@@ -253,21 +273,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\web.Api.csproj": {
+    "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\web.Api\\web.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\web.Api.csproj",
+        "projectUniqueName": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\web.Api\\web.Api.csproj",
         "projectName": "web.Api",
-        "projectPath": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\web.Api.csproj",
-        "packagesPath": "C:\\Users\\farah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\web.Api\\obj\\",
+        "projectPath": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\web.Api\\web.Api.csproj",
+        "packagesPath": "C:\\Users\\RimaZ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\web.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\farah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RimaZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -282,8 +302,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\farah\\OneDrive\\Documents\\GL3Sem1\\DotNet\\ScolarProject\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\RimaZ\\source\\repos\\ScolarProject\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -303,11 +323,19 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
@@ -337,7 +365,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

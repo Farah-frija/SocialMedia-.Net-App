@@ -8,11 +8,14 @@ using Core.Application.Interfaces.Chat.Core.Domain.ServiceInterfaces.Chats;
 using Core.Application.DTOs.DTOsRequests.ChatRoomRequests;
 using Core.Application.DTOs.DTOsResponses.ChatRoomResponse;
 using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Web.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize] // Requires authentication
+
     public class ChatRoomController(IChatRoomService chatRoomService, IMapper mapper) : ControllerBase
     {
         private readonly IChatRoomService _chatRoomService = chatRoomService;

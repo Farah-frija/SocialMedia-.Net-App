@@ -19,12 +19,12 @@ namespace web.Api.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class UsersController : ControllerBase
+    public class AuthController : ControllerBase
     {
         private readonly IAuthService _authService;
         private readonly IMapper _mapper;
 
-        public UsersController(IAuthService authService, IMapper mapper)
+        public AuthController(IAuthService authService, IMapper mapper)
         {
             _authService = authService;
             _mapper = mapper;
